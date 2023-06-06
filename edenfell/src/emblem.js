@@ -2,6 +2,8 @@ import React from 'react';
 
 export default function Emblem() {
     return (
-        <h1>Emblem</h1>
+        <div className="emblem-div">
+            <img className='emblem-img' alt="Emblem" src=""/>
+        </div>
     );
 }

@@ -10,10 +10,12 @@ export default function Navbar() {
         setMenuIsExpanded(!menuIsExpanded);
     }
     return(
-        <nav>
-            <Logo />
-            <Emblem />
-            <Dropdown expandMenu={toggleMenu}/>
+        <nav className='navbar'>
+            <div className="nav-div">
+                <Logo />
+                <Emblem />
+                <Dropdown expandMenu={toggleMenu}/>
+            </div>
             <Menu expanded={menuIsExpanded}/>
         </nav>
     );

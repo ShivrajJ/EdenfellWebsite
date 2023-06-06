@@ -1,4 +1,4 @@
-import {motion} from 'framer-motion';
+import {AnimatePresence, motion} from 'framer-motion';
 
 const menuItems = [
   {
@@ -51,25 +51,27 @@ const menuItems = [
 
 export default function Menu({expanded}) {
   return(
-    <motion.div layout data-isExpanded={expanded} className="menu" animate={{opacity: expanded?1:0}}>
-      <motion.div layout className="search-bar">
-
+    <AnimatePresence mode='sync'>
+      <motion.div layout key={expanded} className="menu" initial={{opacity: 0, width:'0vw'}} animate={{opacity: expanded?1:0, width:'84vw'}} exit={{opacity: 0, width:'0vw'}}>
+        <motion.div layout className="search-bar">
+          
+        </motion.div>
+        <motion.div className="menu-items">
+          {menuItems.map((item, index) => {
+            return(expanded &&
+              <div className={item.title + "-items"}>
+                <ul>
+                  {item.submenu.map((subitem, subindex) => {
+                    return(
+                      <li key={index*10+subindex}><a href={subitem.url}>{subitem.title}</a></li>
+                    );
+                  })}
+                </ul>
+              </div>
+            );
+          })}
+        </motion.div>
       </motion.div>
-      <motion.div className="menu-items">
-        {menuItems.map((item, index) => {
-          return(
-            <div className={item.title + "-items"}>
-              <ul>
-                {item.submenu.map((subitem, subindex) => {
-                  return(
-                    <li key={index*10+subindex}><a href={subitem.url}>{subitem.title}</a></li>
-                  );
-                })}
-              </ul>
-            </div>
-          );
-        })}
-      </motion.div>
-    </motion.div>
+    </AnimatePresence>
   );
 }
