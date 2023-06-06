@@ -3,7 +3,7 @@ import React from 'react';
 export default function Emblem() {
     return (
         <div className="emblem-div">
-            <img className='emblem-img' alt="Emblem" src=""/>
+            <img className='emblem-img' alt="Emblem" src={require("./images/EmblemBig.png")}/>
         </div>
     );
 }

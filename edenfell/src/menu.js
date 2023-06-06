@@ -1,4 +1,5 @@
 import {AnimatePresence, motion} from 'framer-motion';
+import Search from './search';
 
 const menuItems = [
   {
@@ -52,14 +53,15 @@ const menuItems = [
 export default function Menu({expanded}) {
   return(
     <AnimatePresence mode='sync'>
-      <motion.div layout key={expanded} className="menu" initial={{opacity: 0, width:'0vw'}} animate={{opacity: expanded?1:0, width:'84vw'}} exit={{opacity: 0, width:'0vw'}}>
+      <motion.div layout key={expanded} className="menu" initial={{opacity: 0, width:'0vw'}} animate={{opacity: expanded?0.8:0, width:'84vw'}} exit={{opacity: 0, width:'0vw'}}>
         <motion.div layout className="search-bar">
-          
+          <Search />
         </motion.div>
         <motion.div className="menu-items">
           {menuItems.map((item, index) => {
             return(expanded &&
-              <div className={item.title + "-items"}>
+              <div className={"menu-items-list"}>
+                <h2>{item.title}</h2>
                 <ul>
                   {item.submenu.map((subitem, subindex) => {
                     return(

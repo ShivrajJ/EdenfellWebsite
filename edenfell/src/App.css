@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+body {
+  font-family: 'Cinzel', serif;
+  color:white;
+  background-color: black;
+}
+
+/*============================= LANDING =============================*/
 .landing-div {
   height:100%;
   width: 100%;
@@ -9,9 +16,13 @@
   left:0;
   z-index:0;
   text-align: center;
+  background-image: url("./images/landing-image.png");
+  background-size:cover;
 }
+
+/*============================= NAVBAR =============================*/
 .navbar {
-  position:absolute;
+  position:fixed;
   height: 100vh;
   max-height: 100vh;
   width: 99vw;
@@ -23,37 +34,97 @@
 .nav-div {
   height: 100%;
   width: 15%;
+  border-right: 1px solid rgba(255, 255, 255, 0.6);
 }
 .logo-div {
   height: 20%;
+  align-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.6);
 }
 .emblem-div {
   height: 60%;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .dropdown-div {
   height:20%;
+  color:white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dropdown-button {
+  background-color: transparent;
+  border: none;
+  width: 30%;
+}
+.dropdown-button path {
+  fill:white;
 }
 .logo-img {
   width: 50%;
   padding: 10px;
   border-radius: 50%;
 }
+.emblem-img {
+  padding: 10px;
+  height:90%;
+}
 .menu {
-  background-color: slategray;
+  background-color: black;
   position: absolute;
   left: 15vw;
+  height: 100%;
   top:0;
-  /* height:100%; */
   opacity: 0;
 }
-/* 
-.menu[data-isExpanded = "true"] {
+.menu-items {
+  height: 100%;
+  max-height: 100%;
+  display: flex;
+  text-align: center;
+}
+.menu-items a {
+  text-decoration: none;
+  color: white;
+}
+.menu-items a:hover {
+  color:goldenrod;
+}
+.menu-items ul, li {
+  list-style-type: none;
+  padding: 0;
+}
+.search-bar {
   width: 100%;
 }
-.menu[data-isExpanded = "false"] {
-  width: 0%;
-} */
+.search-input {
+  width: 95%;
+  height: 19.5vh;
+  font-size: 2.6rem;
+  padding:10px;
+  margin: 10px;
+  background-color: rgba(0,0,0,0);
+  color: white;
+  border: none;
+}
+.menu-items-list {
+  width: 33%;
+  height: 100%;
+}
+/*============================= MAIN PAGE CONTENT =============================*/
 .content {
   top:100vh;
   position: absolute;
+  left:10%;
+  width: 80%;
+  text-align: center;
+}
+.content h1 {
+  font-size: 6rem;
 }
