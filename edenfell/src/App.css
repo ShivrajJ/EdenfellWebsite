@@ -25,6 +25,7 @@ body {
   position:fixed;
   height: 100vh;
   max-height: 100vh;
+  display:flex;
   width: 99vw;
   max-width: 99vw;
   top:0;
@@ -33,7 +34,9 @@ body {
 }
 .nav-div {
   height: 100%;
-  width: 15%;
+  width: 15vw;
+  min-width: 10vw;
+  transform-origin: 0 0;
   border-right: 1px solid rgba(255, 255, 255, 0.6);
 }
 .logo-div {
@@ -73,15 +76,20 @@ body {
 }
 .emblem-img {
   padding: 10px;
-  height:90%;
+  width: 95%;
 }
+
+/*============================= MENU =============================*/
 .menu {
   background-color: black;
-  position: absolute;
-  left: 15vw;
+  left: 0;
+  position: relative;
   height: 100%;
+  width: 0%;
+  transform-origin: 0 0;
   top:0;
   opacity: 0;
+  max-width: 90vw;
 }
 .menu-items {
   height: 100%;

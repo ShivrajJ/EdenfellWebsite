@@ -52,10 +52,10 @@ const menuItems = [
 
 export default function Menu({expanded}) {
   return(
-    <AnimatePresence mode='sync'>
-      <motion.div layout key={expanded} className="menu" initial={{opacity: 0, width:'0vw'}} animate={{opacity: expanded?0.8:0, width:'84vw'}} exit={{opacity: 0, width:'0vw'}}>
+    <AnimatePresence mode='wait'>
+      {expanded && <motion.div layout key={expanded} className="menu" initial={{opacity: 0, width:'0%'}} animate={{opacity: expanded?0.8:0, width:'100%'}} exit={{opacity: 0, width:'0%'}}>
         <motion.div layout className="search-bar">
-          <Search />
+          <Search expanded={expanded}/>
         </motion.div>
         <motion.div className="menu-items">
           {menuItems.map((item, index) => {
@@ -73,7 +73,7 @@ export default function Menu({expanded}) {
             );
           })}
         </motion.div>
-      </motion.div>
+      </motion.div>}
     </AnimatePresence>
   );
 }
