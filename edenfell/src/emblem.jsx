@@ -1,5 +1,5 @@
 import React from 'react';
-import emblemBig from "./images/animated.png";
+import emblemBig from "./images/animatedEmblem.gif";
 import emblemSmall from "./images/EmblemSmall.png";
 import {motion} from 'framer-motion';
 
