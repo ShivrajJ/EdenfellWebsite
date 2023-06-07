@@ -43,6 +43,7 @@ body {
 }
 .logo-div {
   height: 20%;
+  /* background-color: rgba(0,0,0,0.8); */
   align-items: center;
   display: flex;
   align-items: center;
@@ -52,9 +53,15 @@ body {
 .emblem-div {
   height: 60%;
   border-bottom: 1px solid rgba(255, 255, 255, 0.6);
+  /* background-color: black; */
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.animated-emblem {
+  transform: rotate(90deg);
+  padding:10px;
+  height: 50%;
 }
 .dropdown-div {
   height:20%;
@@ -62,6 +69,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  /* background-color: rgba(0,0,0,0.8); */
 }
 .dropdown-button {
   background-color: transparent;
