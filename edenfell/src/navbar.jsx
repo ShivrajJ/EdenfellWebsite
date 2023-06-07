@@ -21,7 +21,7 @@ export default function Navbar() {
       })
     return(
         <nav className='navbar'>
-            <motion.div className="nav-div" animate={{width: scrolled ? '10vw' : '15vw', minWidth: scrolled ? '10vw' : '15vw'}}>
+            <motion.div layout className="nav-div" initial={{width:'0vw', minWidth:'0vw'}} animate={{width: scrolled ? '10vw' : '15vw', minWidth: scrolled ? '10vw' : '15vw'}}>
                 <Logo layout />
                 <Emblem layout logoChange={scrolled}/>
                 <Dropdown layout expandMenu={toggleMenu}/>

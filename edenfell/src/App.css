@@ -31,11 +31,13 @@ body {
   top:0;
   left:0;
   z-index: 10;
+  flex-direction: row;
 }
 .nav-div {
   height: 100%;
-  width: 15vw;
+  width: 0vw;
   min-width: 10vw;
+  max-width: 15vw;
   transform-origin: 0 0;
   border-right: 1px solid rgba(255, 255, 255, 0.6);
 }
