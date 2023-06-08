@@ -208,4 +208,21 @@ body {
 }
 .content h1 {
   font-size: 6.45vw;
+  color:goldenrod;
+}
+.content h2 {
+  color:goldenrod;
+}
+.content-div {
+  display:flex;
+  align-items: center;
+}
+.content-div div {
+  width:fit-content;
+}
+.content-img1 {
+  margin-right: 20px;
+}
+.content-img2 {
+  margin-left: 20px;
 }
