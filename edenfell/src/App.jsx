@@ -1,4 +1,5 @@
 import React from 'react';
+import {useState} from 'react';
 import './App.css';
 import { useRoutes, useLocation} from 'react-router-dom';
 import Home from './pages/home';
@@ -13,6 +14,7 @@ import OCs from './pages/ocs';
 import NPCs from './pages/npcs';
 import Navbar from './navbar';
 import Landing from './landing.jsx';
+import AudioPlayer from './audioplayer';
 import { AnimatePresence } from 'framer-motion';
 
 
@@ -64,9 +66,15 @@ function App() {
     }
   ])
   const location = useLocation();
+  const[muted, setMuted] = useState(true);
+  function toggleMute() {
+    console.log("toggle");
+    setMuted(!muted);
+  }
   return (
     <>
       <Landing />
+      <AudioPlayer muted={muted} toggleMute={toggleMute}/>
       <Navbar />
       <AnimatePresence mode="wait">
         {React.cloneElement(element, { key: location.pathname})}

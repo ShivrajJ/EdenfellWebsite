@@ -6,7 +6,157 @@ body {
   color:white;
   background-color: black;
 }
+/*============================= AUDIO =============================*/
+.audio-div {
+  position:fixed;
+  top:20px;
+  right:10px;
+  width:max-content;
+  width: 20vw;
+  height:5%;
+  z-index: 1000;
+  display:flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-evenly;
+}
+.icons-div {
+  display:flex;
+  max-height:fit-content;
+  flex-direction: row;
+  align-items:center;
+  justify-content: space-evenly;
+  min-width: max-content;
+  width:max-content;
+}
+.info-div {
+  display:flex;
+  align-items:center;
+  max-height: fit-content;
+  min-width: max-content;
+  width:max-content;
+  /* justify-content: flex-end; */
+  /* overflow:hidden; */
+}
+/* .info-div > * {
+  padding-left:2%;
+  padding-right:2%;
+} */
+.song-name {
+  max-height: 1.6vw;
+  min-width: 1.6vw;
+  /* max-width: 1.3rem; */
+  box-sizing: border-box;
+  right: 1.6vw;
+  /* margin-left: 0.5vw;
+  margin-right: 0.5vw;
+  margin-top: 1vh;
+  margin-bottom:1vh; */
+  font-size: 1.2vw;
+}
 
+.song-name p {
+  margin-top:auto;
+  margin-bottom:auto;
+  margin-left:0.5vw;
+}
+.info-icon {
+  max-height: 1.6vw;
+  min-width: 1.6vw;
+  max-width: 1.6vw;
+  /* max-width: 1.3rem; */
+  box-sizing: border-box;
+  right: 1.6vw;
+  margin-left: 0.5vw;
+  margin-right: 0.5vw;
+  margin-top: 1vh;
+  margin-bottom:1vh;
+}
+/* .info-icon svg {
+  top:0;
+} */
+.audio-icon-div {
+  max-height: 1.6vw;
+  min-width: 1.6vw;
+  /* max-width: 1.3rem; */
+  box-sizing: border-box;
+  right: 1.6vw;
+  margin-left: 0.5vw;
+  margin-right: 0.5vw;
+  margin-top: 1vh;
+  margin-bottom:1vh;
+}
+/* .audio-icon-div svg {
+  top:0;
+} */
+.muted-icon {
+  max-height: 1.6vw;
+  min-width: 1.6vw;
+  top:10px;
+  right:10px;
+}
+.progress-bar-div {
+  width:100%;
+}
+.progress-bar {
+  width:100%;
+  appearance: none;
+  -webkit-appearance: none;
+  background:transparent;
+  cursor:pointer;
+  overflow: hidden;
+  border-radius: 16px;
+}
+                      /***** Track Styles *****/
+/***** Chrome, Safari, Opera, and Edge Chromium *****/
+input[type="range"]::-webkit-slider-runnable-track {
+  border-radius: 10px;
+  height:min(1.3vh, 4vw);
+  background-color: rgba(0,0,0,0.6);
+}
+
+/******** Firefox ********/
+input[type="range"]::-moz-range-track {
+  border-radius: 10px;
+  height:1.3vh;
+  background-color: rgba(0,0,0,0.6);
+}
+input[type="range"]::-webkit-slider-thumb {
+  border-radius: 10px;
+  height: 1.5vh;
+  width:1.5vh;
+  margin-top: -0.3%;
+  background-color: goldenrod;
+  -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  border: 1px solid black;
+  box-shadow: -20vh 0vh 0vh 19vh goldenrod;
+}
+
+/******** Firefox ********/
+input[type="range"]::-moz-range-thumb {
+  border-radius: 10px;
+  height: 1.5vh;
+  width:1.5vh;
+  margin-top: -0.3%;
+  background-color: goldenrod;
+  -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  border: 1px solid black;
+  box-shadow: -407px 0 0 400px #f50;
+}
+
+.collapse-player-div {
+  max-height: 1vw;
+  min-width: 1vw;
+  /* max-width: 1.3rem; */
+  box-sizing: border-box;
+  right: 1.6vw;
+  margin-left: 0.5vw;
+  margin-right: 0.5vw;
+  margin-top: 1vh;
+  margin-bottom:1vh;
+}
 /*============================= LANDING =============================*/
 @font-face {
   font-family: bigLandingFont;
@@ -23,7 +173,7 @@ body {
   position:absolute;
   top:0;
   left:0;
-  z-index:0;
+  z-index:-100;
   text-align: center;
   background-image: url("./images/landing-image.png");
   background-size:cover;
@@ -86,7 +236,7 @@ body {
   height: 100vh;
   max-height: 100vh;
   display:flex;
-  width: 99vw;
+  width: 15vw;
   max-width: 99vw;
   top:0;
   left:0;
@@ -94,7 +244,7 @@ body {
   flex-direction: row;
 }
 .nav-div {
-  height: 100%;
+  height: 100vh;
   width: 0vw;
   min-width: 10vw;
   max-width: 15vw;
@@ -111,7 +261,7 @@ body {
   border-bottom: 1px solid rgba(255, 255, 255, 0.6);
 }
 .emblem-div {
-  height: 60%;
+  height: 60vh;
   border-bottom: 1px solid rgba(255, 255, 255, 0.6);
   background-color: black;
   display: flex;
@@ -158,6 +308,7 @@ body {
   height: 100%;
   width: 0%;
   transform-origin: 0 0;
+  z-index: 10;
   top:0;
   opacity: 0;
   max-width: 90vw;
@@ -217,12 +368,28 @@ body {
   display:flex;
   align-items: center;
 }
+.content-div-2 {
+  display:flex;
+  align-items: center;
+  flex-direction: column;
+}
 .content-div div {
   width:fit-content;
 }
-.content-img1 {
+.content-img-left {
   margin-right: 20px;
+  max-width: 40vw;
 }
-.content-img2 {
+.content-img-right {
   margin-left: 20px;
+  max-width: 40vw;
+}
+.content-img-mid {
+  max-width: calc(200vw/3);
+  margin-bottom: 20px;
+}
+.content cite {
+  color:goldenrod;
+  position:relative;
+  margin-right:0;
 }
