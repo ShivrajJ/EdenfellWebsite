@@ -1,0 +1,1 @@
+import{r as t}from"../../node_modules/react/index-4878784d.js";const o=e=>t.createElement("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"2.9 0.9 10.2 18.2",...e},t.createElement("path",{d:"M3 1 3 3 11 10 3 17 3 19 13 10 3 1Z",stroke:"#000000",strokeWidth:.1,fill:"#FFFFFF"}));export{o as ReactComponent};

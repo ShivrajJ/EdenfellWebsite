@@ -1,0 +1,1 @@
+import{__vitePreload as s}from"../_virtual/preload-helper-fb265ab0.js";const d=i=>{i&&i instanceof Function&&s(()=>import("../node_modules/web-vitals/dist/web-vitals-60d3425a.js"),[]).then(({getCLS:_,getFID:t,getFCP:a,getLCP:o,getTTFB:p})=>{_(i),t(i),a(i),o(i),p(i)})};export{d as default};
