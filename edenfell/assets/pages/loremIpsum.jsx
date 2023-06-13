@@ -1,0 +1,16 @@
+import React from 'react';
+import {motion} from 'framer-motion';
+
+export default function LoremIpsum() {
+    return(
+        <motion.p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet viverra enim. Phasellus ac lobortis libero. Pellentesque a pharetra dui. Donec cursus tellus vulputate lorem vestibulum, at accumsan nisl euismod. Aenean ligula lacus, tincidunt eu ipsum id, vulputate dictum nunc. Sed nec urna quis magna consectetur rutrum. In tristique purus ac eros gravida blandit vel ac magna. Nunc id elementum dolor, vel mattis lorem. Nullam mollis tempus velit, et rutrum enim scelerisque ut. Pellentesque nec lectus eros. Aliquam eget efficitur libero. Sed accumsan convallis malesuada. Mauris eget eleifend metus.
+
+        Proin viverra lobortis rutrum. In hac habitasse platea dictumst. Sed sapien leo, ullamcorper et malesuada cursus, ultrices non ligula. Aliquam ut velit venenatis, sollicitudin erat tincidunt, porttitor nisi. Sed varius massa et nulla molestie, non fermentum turpis sodales. Nam gravida felis tortor, sed aliquet tellus posuere eget. Maecenas diam enim, vehicula in tellus ut, hendrerit molestie nisl. Donec eget sapien erat.
+        
+        Proin dignissim quam felis, id efficitur lectus sodales vitae. Vestibulum hendrerit commodo odio, sit amet lacinia dolor hendrerit nec. Suspendisse vehicula, ipsum non varius vulputate, metus mauris sagittis erat, at rutrum neque augue id ante. Sed tempor, velit quis tristique gravida, magna nulla dapibus est, a mollis purus sapien non sem. Pellentesque ut lectus sit amet ex pretium scelerisque in et lacus. Nunc in dictum lorem. Pellentesque porttitor ligula risus, eu sagittis leo faucibus sit amet. Proin sit amet arcu tincidunt, tristique magna sit amet, bibendum lacus. Aliquam semper, quam quis mollis pharetra, velit lorem rutrum arcu, vel dictum turpis ipsum nec diam.
+        
+        Nulla laoreet lorem a hendrerit cursus. Sed justo leo, aliquet ut hendrerit eu, accumsan vestibulum neque. Phasellus eu dapibus ipsum. Proin vitae nulla enim. Cras laoreet, sapien at suscipit euismod, augue elit auctor diam, ac euismod orci risus nec odio. Phasellus non neque a ex viverra euismod sit amet vel turpis. Maecenas vulputate consequat felis ut malesuada. Donec sodales in leo eu maximus. Nam tristique dignissim semper. Ut nisi justo, ultrices ut egestas eu, consequat eu turpis. Proin id molestie dui, vel euismod sapien. Sed orci ligula, sagittis ut rhoncus sit amet, feugiat sed risus. Mauris eget diam dolor. Nunc sem lorem, fermentum ac vestibulum id, commodo et est. Proin sollicitudin massa id nulla accumsan pellentesque.
+        
+        Nunc dapibus, lectus a posuere euismod, enim lectus feugiat diam, in venenatis arcu orci a augue. Suspendisse tortor sem, luctus sed libero vel, aliquam placerat diam. Mauris hendrerit vel mauris semper consequat. Proin condimentum vel lectus nec dignissim. Pellentesque suscipit luctus fringilla. Donec accumsan facilisis nulla, sit amet posuere ante. In posuere orci enim, sed rhoncus massa finibus et. Fusce bibendum, risus facilisis condimentum euismod, nisi tortor tincidunt tellus, nec blandit dui arcu a velit.</motion.p>
+    );
+}

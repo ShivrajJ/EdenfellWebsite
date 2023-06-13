@@ -1,0 +1,28 @@
+import React, {useEffect} from 'react';
+import { useLocation, Link } from 'react-router-dom';
+import { motion } from 'framer-motion';
+
+export default function SearchResults({className}) {
+    let {state} = useLocation();
+    let pages = state.search;
+    useEffect(() => {
+        scrollBy({behavior:"smooth", top:window.innerHeight});
+    }, [])
+    return(
+        <motion.div className={"first-content"}>
+            <motion.h1>Search for '{pages[0].query}': </motion.h1>
+            <motion.div className={className}>
+                {pages.map((page) => {
+                    return(
+                        <motion.div>
+                            <Link to={page.url}><motion.h2 key={page.page}>{page.page}</motion.h2></Link>
+                            <motion.p>
+                                {page.para}
+                            </motion.p>
+                        </motion.div>
+                    )
+                })}
+            </motion.div>
+        </motion.div>
+    );
+}
