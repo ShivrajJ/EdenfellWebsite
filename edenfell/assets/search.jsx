@@ -9,31 +9,33 @@ export default function Search({expanded, setExpanded, content}) {
     }
     const handleSubmit = (event) => {
         event.preventDefault();
-        let searchTerm = event.target[0].value;
+        let searchTerm = event.target[0].value.toLowerCase();
         let foundPages = [];
-        content.filter((page) => {
-            let paragraph;
-            let found = page.content.find((div) => {
-                let foundDiv = div.paragraphs.find((para) => {
-                    if(!para.type) {
-                        if(para.includes(searchTerm)) {
-                            paragraph = para;
-                            return true;
+        for(var key in content) {
+            content[key].filter((page) => {
+                let paragraph;
+                let found = page.content.find((div) => {
+                    let foundDiv = div.paragraphs.find((para) => {
+                        if(!para.type) {
+                            if(para.toLowerCase().includes(searchTerm)) {
+                                paragraph = para;
+                                return true;
+                            }
+                        } else{
+                            if(para.text.toLowerCase().includes(searchTerm)) {
+                                paragraph = para;
+                                return true
+                            }
                         }
-                    } else{
-                        if(para.text.includes(searchTerm)) {
-                            paragraph = para;
-                            return true
-                        }
-                    }
-                    return false;
-                });
-                return foundDiv;
-            })
-            if(found) {
-                foundPages.push({page:page.page, divID:found.divID, query:searchTerm, url:page.url, para:paragraph});
-            }
-        });
+                        return false;
+                    });
+                    return foundDiv;
+                })
+                if(found) {
+                    foundPages.push({page:page.page, divID:found.divID, query:searchTerm, url:page.url, para:paragraph});
+                }
+            });
+        }
         setExpanded(false);
         loadSearchResults(foundPages);
     }

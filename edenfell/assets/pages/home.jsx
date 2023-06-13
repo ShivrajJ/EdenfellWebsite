@@ -1,25 +1,32 @@
 import {React, useState} from 'react';
+import { useOutletContext } from 'react-router-dom';
 import {motion} from 'framer-motion';
-import Server from './server';
-import World from './world';
-import Lore from './lore';
-import Locations from './locations';
-import Organizations from './organizations';
-import Nations from './nations';
-import Characters from './characters';
-import OCs from './ocs';
-import NPCs from './npcs';
+import Content from './contentInfinite';
+// import Server from './server';
+// import World from './world';
+// import Lore from './lore';
+// import Locations from './locations';
+// import Organizations from './organizations';
+// import Nations from './nations';
+// import Characters from './characters';
+// import OCs from './ocs';
+// import NPCs from './npcs';
 import InfiniteScroll from 'react-infinite-scroll-component';
 
-export default function Home({className, content}) {
-    let pagesArray = [World, Lore, Locations, Organizations, Nations, Characters, OCs, NPCs, Server];
+export async function loader() {
+  return null;
+}
+
+export default function Home({className}) {
+    let content = useOutletContext();
+    let pagesArray = ["World", "lore", "locations", "races", "organizations", "Characters", "ocs", "npcs", "Server"];
+    const headers = ["World", "Characters", "Server"];
     const[loadedPages, setLoadedPages] = useState(pagesArray.slice(0,2));
 
     function loadNextPage() {
         setLoadedPages(loadedPages.concat(pagesArray[loadedPages.length]));
     }
     
-
     return (
         <InfiniteScroll
           dataLength={loadedPages.length}
@@ -32,8 +39,10 @@ export default function Home({className, content}) {
                 <motion.h1>WELCOME TO EDENFELL</motion.h1>
                 {loadedPages.map((Page) => {
                     return(
-                        <Page key={Page.name} className={"content"} content={content}/>
-                        )
+                      (headers.includes(Page) && <h1>{Page}</h1>)  
+                      ||
+                      <Content key={Page} className={"content"} content={content} pageName={Page}/>
+                      )
                     }
                     )
                 }

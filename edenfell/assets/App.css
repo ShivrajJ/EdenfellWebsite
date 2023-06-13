@@ -690,3 +690,10 @@ input[type="range"]::-moz-range-thumb {
   position:relative;
   margin-right:0;
 }
+.content li {
+  list-style: square inside none;
+  text-align: left;
+}
+.content li::marker {
+  color:goldenrod;
+}

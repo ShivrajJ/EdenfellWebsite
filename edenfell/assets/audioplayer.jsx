@@ -46,9 +46,6 @@ export default function AudioPlayer({muted, toggleMute, nextSong, song}) {
     const[collapse, setCollapse] = useState(false);
 
     // ==== Functions ====
-    function loadMetadata() {
-        console.log(songName);
-    }
     // For Updating the Audio Progress Bar
     const repeat = useCallback(() => {
         const currentTime = audioRef.current.currentTime;
@@ -91,7 +88,7 @@ export default function AudioPlayer({muted, toggleMute, nextSong, song}) {
                             <InfoImg variants={iconHover} key="info-img"/>
                         </motion.div>}
                     </motion.div>
-                    <audio key="audio" src={song} className="audio" autoPlay={true} muted={muted} ref={audioRef} onEnded={nextSong} onPlay={loadMetadata}/>
+                    <audio key="audio" src={song} className="audio" autoPlay={true} muted={muted} ref={audioRef} onEnded={nextSong}/>
                     <motion.div onClick={toggleMute} variants={iconHover} className='audio-icon-div' key="audio-icon-div">
                         {!muted && <AudioImg key="audio-icon" className="audio-icon"/>}
                         {muted && <MutedImg key="muted-icon" className="muted-icon"/>}

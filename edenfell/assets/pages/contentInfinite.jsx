@@ -1,22 +1,22 @@
 import React, {useEffect, useState} from 'react';
-import { useLoaderData, useParams, useOutletContext} from 'react-router-dom';
 import { motion } from 'framer-motion';
-import Location from './locations';
+import Location from './locations'
 
 export async function loader({params}) {
     return null;
 }
 
-export default function Content({className}) {
-    let {contentPage} = useParams();
-    if(contentPage == "locations") {
-        return <Location></Location>
+export default function Content({className, content, pageName}) {
+    if(pageName == "locations") {
+        return (<Location></Location>);
     }
-    if(contentPage == "map") {
-        return <MapPage></MapPage>
+    let page;
+    for(var key in content) {
+        page = content[key].find((p) => {
+            return p.page == pageName;
+        });
+        if(page) break;
     }
-    let content = useOutletContext();
-    let page = content.find((obj) => {return obj.page == contentPage;});
     return (
         <React.Suspense fallback={<h1>Loading...</h1>}>
             <motion.div className={className || 'content'} initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} id="lore">

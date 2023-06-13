@@ -5,8 +5,7 @@ import Logo from './logo';
 import Emblem from './emblem';
 import Dropdown from './dropdown';
 
-export default function Navbar({content}) {
-    const[menuIsExpanded, setMenuIsExpanded] = useState(false);
+export default function Navbar({content, menuIsExpanded, setMenuIsExpanded}) {
     const mql = window.matchMedia("(orientation:portrait)");
     const [portrait, setPortrait] = useState(mql.matches);
     mql.onchange= (e) => {

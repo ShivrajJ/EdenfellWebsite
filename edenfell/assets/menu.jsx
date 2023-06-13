@@ -16,12 +16,12 @@ const menuItems = [
         url:"/locations",
       },
       {
-        title:"Organizations",
-        url:"/organizations",
+        title:"Races",
+        url:"/races",
       },
       {
-        title:"Nations",
-        url:"/nations",
+        title:"Organizations",
+        url:"/organizations",
       },
     ],
   },
@@ -53,7 +53,7 @@ const menuItems = [
 
 export default function Menu({expanded, portrait, setMenuIsExpanded, content}) {
   function clickedLink() {
-    setMenuIsExpanded(false);
+    setTimeout(setMenuIsExpanded, 300, false);
     const element = document.getElementsByClassName('content')[0];
     element.scrollIntoView({behavior:"smooth", block:"start", inline:"nearest"});
   }

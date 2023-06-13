@@ -4,7 +4,7 @@ import {ReactComponent as LogoImg} from "./img/Logo.svg";
 
 export default function Logo({setMenuIsExpanded}) {
     function clickedLink() {
-        setMenuIsExpanded(false);
+        setTimeout(setMenuIsExpanded, 300, false);
         const element = document.getElementsByClassName('first-content')[0];
         element.scrollIntoView({behavior:"smooth", block:"start", inline:"nearest"});
     }
