@@ -1,5 +1,5 @@
 {
-    "pages" : [
+    "world" : [
         {
             "page": "lore",
             "url": "/world/lore",
@@ -18,6 +18,7 @@
                         }
                     ],
                     "type" : "inline",
+                    "img": "lore1.jpg",
                     "imgType":"left"
                 },
                 {
@@ -29,6 +30,7 @@
                         "It has been two hundred years since the Cataclysm now and the Anthros are struggling to rebuild. Most plants, like the beasts, turned noxious and posed a threat to the people so that only a few could be depended on for food in a world where the soil could no longer yield new life. The Anthros returned to their hunter-gatherer roots, surviving as foragers and livestock herders, and building settlements where the climate was just conducive enough to ensure that they could somewhat thrive. Soon cities began to spring up where subsistent wildlife was most bountiful (and Voidbringers were not) and the modern world as we know it took shape:"
                     ],
                     "type" : "column",
+                    "img": "lore2.jpg",
                     "imgType":"mid"
                 },
                 {
@@ -40,6 +42,7 @@
                         "They say there are two sides to every story, but in Edenfell there is no shortage of sides to choose from. Align yourself with a cause and fight its battle to completion or choose your own cause, play one side, both sides, or none. Always remember, you make your own way, and whatever that is, I am certain your legend will shape this new world."
                     ],
                     "type" : "inline",
+                    "img": "lore3.jpg",
                     "imgType":"left"
                 }
             ]
@@ -50,9 +53,182 @@
             "content":[
                 {
                     "divID":1,
+                    "title": "Edenfell’s Anthropomorphic Races (Anthros)",
                     "paragraphs":[
-                        "abcdef",
-                        "Caliburn"
+                        "Before the Cataclysm, Edenfell presumably had more races of Anthros (Gaians, Merfolk, Centaurs, Orcs, etc), but that age is long past and the handful of survivors who lived in that time—before the death and extinction of races that could not cope with a world without excess magic—are now also long gone themselves and the stories are nothing more than an oral relic of a past no one remembers or ever witnessed. The 4 races that remain are as diverse and colorful as they could ever be, however, and bring a variety of cultures, temperaments, history, and magic to the world that it would otherwise be dull without.",
+                        "Here are Edenfell’s last remaining Anthro races in no particular order:"
+                    ],
+                    "type" : "column"
+                },
+                {
+                    "divID":2,
+                    "title": "The Elves (Alfen)",
+                    "paragraphs":[
+                        "Sometimes referred to pejoratively as skinny Nords, the Elves of Edenfell are Nord-like in physical appearance, save for a few key differences. Elves are often smaller than Nords, with sharper, pointier ears. They follow the general stereotypes you’re all used to; there is no need to explain what we all know. The Elves have often always had the closest connection to Edenfell’s magic in the past being the first of the Anthros, this is why in the past Alfen Mages had more mana and magical aptitude than their peers and it explains why, even now in the age where Mages are a rarity, most of them tend to be Elves.",
+                        "While it’s immoral to subject the entire race to a few stereotypes, we’re going to do so anyway. The Elves tend to be very traditional, proud, condescending, and patronizing. Turning their noses up at other cultures and practices, they argue the importance of their existence and how they are the most civilized of all races. ",
+                        "Alfen often spot tattoos and paint on their bodies that can be anything from sentimental and tribal to religious or superstitious.",
+                        "Like all the other Anthros, Elves have a natural racial ability we’re going to call a Trait. The Alfen trait allows them to communicate at a frequency that other Anthros and most living beings cannot hear—even a Changeling with sensitive hearing would have difficulty picking it up. "
+                    ],
+                    "type":"inline",
+                    "img":"raceElves1.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID" : 3,
+                    "paragraphs" : [
+                        "In addition to this, Elves have enhanced senses; their taste, smell, sight, touch, and obviously hearing are heightened and much better than most—second only to some animals. On average, they stand at about 185cm (6’1”) for men and 175cm (5’9”) for women.",
+                        "Elven Mages are known for their elemental magic; water, earth, fire, lightning, tallow & air. It is possible for Elves to “specialize” in a certain element, and be able to develop it to a new level. A fire specialist might be able to develop into magma or even explosives/combustion. But this takes time, and skill to unlock. Elves are known for their carpentry and weaponsmithing. Their weapons tend to be more “elegant”, like a saber or rapier, rather than brutish, like a broadsword. Despite this, they’re well-known for their skills in archery, and this is what most are trained in. When it comes to armor, they tend to keep it light and simple as the general combat style of the elves is very “hit and run” or “long-ranged”.",
+                        "Elves used to be known for their long lives, living up to almost 1000 years of age. But after the Cataclysm, this has changed. Their average age range, for one reason or another, began to match the rest of the races—that being an average of 80 years old. Despite being just like the rest now, they still think they’re better.",
+                        "Certain slurs are considered offensive or hurtful by the Elves: Faeries or Fairies, Knife-ears, Twinks, and Pricks. They also really hate being called “Faes” (it’s the equivalent, to them, of being called a Neanderthal to us)."
+                    ],
+                    "type":"inline",
+                    "img":"raceElves2.jpg",
+                    "imgType":"right"
+                },
+                {
+                    "divID": 4,
+                    "title": "The Fae (Faeries)",
+                    "paragraphs" : [
+                        "Faes are a race of Elven heritage that used to be natives of the forests and the woods. The Fae used to rarely ever venture past the woods due to their timid and reserved nature and were once even considered a myth, like cryptids. ",
+                        "Stereotypically, Faes, like the Elves, are rarely cooperative—but not for the same reason. Elves are much more offish, vain, and conceited while the Faes are skittish, bashful, and sometimes considered cowards due to their peace-loving nature. Faes are usually incredibly peaceful and tend to focus more on themselves rather than the problems of others. Though not as ethnocentric as Elves, they try their best to avoid the affairs of the other races and just focus on themselves. Faes are sort of like green Elves (though they can be pale, brown, or even have ordinary pigmentation like the Elves), they have the ears and the youthful effeminate face and everything—they just have more chlorophyll. ",
+                        "Faes have a natural race trait that allows them to do a few things. What they’re most well known for, and the most convenient trait, to be honest, is the ability to create wings. The wings grant the Faes flight (no way!), allowing them to fly or hover at a low altitude (no higher than an average tree). They also have the ability to shrink themselves to a size of a smaller dog, like a baby Yorkie. Obviously, they can also return to their original size, which on average is 170cm (5’7”) for men and 160cm (5’3”) for women."
+                    ],
+                    "type":"inline",
+                    "img": "raceFae1.jpg",
+                    "imgType" : "left"
+                },
+                {
+                    "divID" : 5,
+                    "paragraphs": [
+                        "Fae Mages are able to utilize the power of plants around them. This entails many things when it comes to usage. For example, Faes are able to temporarily sprout plants from seeds, they’re able to sense nearby plants in the vicinity and control them as well. They have an innate understanding of which plant does what, they’re able to move plants without killing them, wither plants, resuscitate them, etc. Faes are incredibly skilled to an almost mesmerizing degree at music, the arts, carpentry, and tinkering, and while they used to be incredibly adept farmers during the age of agriculture, they are just as good hunters and foragers in this new age of seeking and gathering food.",
+                        "Slurs considered offensive or hurtful by the Faes: Vires (it's their n-word), Tree Hugger, and the rest of the Elven slurs. They hate being called Elves, as well—they think they’re better, but they’ll never admit it.",
+                        "Fun fact: instead of melanin, they say chlorophyll."
+                    ],
+                    "type": "inline",
+                    "img":"raceFae2.jpg",
+                    "imgType":"right"
+                },
+                {
+                    "divID": 6,
+                    "title":"The Nords (Warborn)",
+                    "paragraphs":[
+                        "Having evolved to withstand the harsh nature and adapt to most—if not all—environmental challenges, Nords have a storied history as battle-drunk veterans who are constantly looking for a fight. Despite this, they also tend to have an insatiable desire for knowledge and discovery, having once built the single greatest and most expansive library and school in Edenfell. The Nords once traversed land and sea—conquering nations, and so it is no surprise that they have survived the Cataclysm and will likely overcome this new obstacle yet again. The Nords prefer colder settings rather than warmer climates and so they have always gravitated to the north. ",
+                        "Stereotypically, Nords are easily prone to anger or just temperamental, often willing to settle disputes with their fists before any more words are exchanged. You would be hard-pressed to find a Nord with bare skin as most of them are adorned in tribal marks, tattoos, stories told in colorful ink, and scars borne proudly like testaments of one’s strength and experience in battle and life in general.",
+                        "Nords are physically the strongest of the races. Able to wrestle bears and tigers down to submission, it isn’t a far stretch to claim that they could overwhelm most with their bare fists alone. But with this clear advantage, they also do have a weakness; in terms of magic, they are not the most potent. They have low mana and tend to focus on a “might over magic” type of fighting style. Nords yield fewer mages than the other races, and this has always been the case throughout antiquity. Their physique is usually hulking, and the same goes for their stature. The men average 200cm (6’7”) in height, and the women average 185cm (6’1”)."
+                    ],
+                    "type":"inline",
+                    "img":"raceNord1.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID" : 7,
+                    "paragraphs" : [
+                        "Even though Nords are more strength than wizardry, there are some Mages amongst them. Their magic consists of a “creation” type of magic, which can simply be described as construction magic. This magic is called Crafting. The constructs that they create are limited only by their imagination and their mana. While they cannot simply create a full-sized living dragon that breathes fire (not at first anyway), they are able to create constructs of different items such as tools and weapons that cannot simply be broken by being struck with just some force.",
+                        "Nords are exceptional hunters, herders, and rearers of livestock as well as good sailors and blacksmiths. They are also often quite skilled at woodworking and building ships and structures, usually of the sturdy, sheer, and austere kind.",
+                        "Slurs considered offensive or hurtful by the Nords: You already know."
+                    ],
+                    "type":"inline",
+                    "img":"raceNord2.jpg",
+                    "imgType":"right"
+                },
+                {
+                    "divID" : 8,
+                    "title": "The Changelines (Spiels)",
+                    "paragraphs" : [
+                        "Upon first interacting with one of these guys, it’s possible that you might not even notice that it’s a Changeling. You can only know if the Changeling wants you to know—and that’s what is so unique about this race. This alludes to many things, but mainly to their nature. Changelings are often very tricky and mischievous individuals! They tend to go out of their way to cause trouble for others and have a generally competitive nature. Changelings are differentiated by their animalistic features, which vary depending on the Changeling themself. They can have a tail, some ears, claws, and be generally humanoid—or they can be on the opposite end of this spectrum and just be, physically, an anthropomorphic animal.",
+                        "Changelings are matriarchal, and therefore women tend to be much stronger and bigger than men. Obviously, due to the variety of Changelings as a result of the amount of different animalistic hybrids that can exist, the average size changes often and is not very accurate. However, the estimated difference between men and women in Changelings is about 20cm. So an avian Changeling (for instance) would have a man stand, on average, 160cm (5’3”) and the women’s average would be 180cm (5’11”). Many different combinations with different heights and sizes depending on the animal kin also exist. ",
+                        "Changelings tend to mimic the personality of the animal they kin, so a tiger would be fierce while a rabbit would be timid, but stereotypically, most Changelings are tricky individuals, some to the point of sociopathy—where they hold no regard for the safety of the people they deceive, including their fellow Changelings. While at first, this race might seem like the safest to interact with, due to how cuddly and adorable some of them look, they’re more often than not the most dangerous as they value their own amusement to a higher degree than others’ safety."
+                    ],
+                    "type":"inline",
+                    "img":"raceChangeling1.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID":9,
+                    "paragraphs" : [
+                        "Changelings’ trait is dependent on what animal they kin. A cheetah Changeling could be incredibly fast over short distances, a hawk Changeling could have massive wings that they could use to fly, etc. It all depends on which attribute/feature of the animal the Changeling has. Changelings are also able to speak to and understand all animals freely. It is a nifty and interesting gift to have and makes them very good herders and tamers. ",
+                        "Changeling Mages are a different breed completely for they are able to take the form of any beast and animal completely they so please—which allows them to get their natural abilities. Mages of a higher caliber are also able to combine different animalistic features together to transform into some sort of chimera.",
+                        "There exists some intraracial tension in the Changeling community as a result of the distinct groups that exist within it. Changelings can be split up into six different groups. These groups are Mammals, Aves, Reptiles, Amphibians, Invertebrates, and Fish. Mammals are seen as the top of the food chain among Changelings, and they have their own inner-foodchain amongst them (it exists as a sub-group of predators and prey, which does not need to be explained), Reptiles are considered second, Aves third, followed in order by Amphibians, Invertebrates, and Fish. The latter 3 are regarded as bottom feeders of the Changeling society. Reptiles and Amphibians tend to go together quite often, but the relationships are often kept secret as any Reptile who’s seen with an Amphibian is looked down on as lesser than their peers. Mammals and Aves also sometimes go together (and this union is more tolerated because of their standing as apexes but is still not entirely accepted and considered weird because of the stigma against mixing among Changelings).",
+                        "Slurs considered offensive or hurtful by the Changelings:"
+                    ],
+                    "type" : "column",
+                    "img" : "raceChangeling2.jpg",
+                    "imgType" : "mid"
+                },
+                {
+                    "divID" : 10,
+                    "title" : "Writer’s Notes",
+                    "paragraphs" : [
+                        {
+                            "text" : "Here are some more stereotypes and trivia that are nothing more than heuristics for the players to do with as they please: ",
+                            "type": "li"
+                        },
+                        {
+                            "text" : "Elves hate everyone. They’re basically the French people of the races. ",
+                            "type": "li"
+                        },
+                        {
+                            "text" : "Faes tolerate everyone but get annoyed easily by others' “ignorance” of their craft. They tolerate Elves the most.",
+                            "type": "li"
+                        },
+                        {
+                            "text" : "Nords have no inherent hatred for any of the races, but they do find Elves annoying.",
+                            "type": "li"
+                        },
+                        {
+                            "text" : "Changelings hate Nords because Nords hunted them for sport.",
+                            "type": "li"
+                        },
+                        {
+                            "text" : "Nords have a lot of blue-eyed, blond-haired folk",
+                            "type": "li"
+                        },
+                        {
+                            "text" : "Faes have too many gingers",
+                            "type": "li"
+                        }
+                    ],
+                    "type":"list"
+                }
+            ]
+        },
+        {
+            "page":"organizations",
+            "url":"/world/organizations",
+            "content": [
+                {
+                    "divID":1,
+                    "title":"Organizations",
+                    "paragraphs":[
+                        "organizations"
+                    ]
+                }
+            ]
+        }
+    ],
+    "characters" : [
+        {
+            "page":"ocs",
+            "url":"/characters/ocs",
+            "content": [
+                {
+                    "divID":1,
+                    "title":"OCs",
+                    "paragraphs":[
+                        "ocs"
+                    ]
+                }
+            ]
+        },
+        {
+            "page":"npcs",
+            "url":"/characters/npcs",
+            "content": [
+                {
+                    "divID":1,
+                    "title":"NPCs",
+                    "paragraphs":[
+                        "npcs"
                     ]
                 }
             ]
