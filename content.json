@@ -204,6 +204,1004 @@
                     ]
                 }
             ]
+        },
+        {
+            "page":  "flora",
+            "url":  "/world/flora",
+            "content": [
+                {
+                    "divID":  1,
+                    "title":  "Aureum",
+                    "paragraphs":  [
+                        "An Aureum flower can often be found in swamps or bodies of water which aren’t yet fully contaminated. Its petals work as lovely makeshift bandages, and will automatically wrap around any area that is bleeding. They heal slowly, but are a great temporary means of keeping wounds safe from infection.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":  "column",
+                    "img":  "floraAureum.png",
+                    "imgType":  "mid"
+                },
+                {
+                    "divID":  2,
+                    "title":  "Blue Bottoms",
+                    "paragraphs":  [
+                        "Blue Bottoms are a harmless plant found all over Edenfell, commonly used for their special trait of having many different flavours of taste despite their appearance. They can either be spicy, minty, fruity, etc., it all seems to be randomized, and all Blue Bottoms are identical in shape, so there's no telling on what kind they could truly be.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "column",
+                    "img":  "floraBlueBottoms.png",
+                    "imgType":  "mid"
+                },
+                {
+                    "divID":  3,
+                    "title":  "Celer",
+                    "paragraphs":  [
+                        "Celers are star-shaped flowers found typically near bodies of water around Edenfell, such as small ponds, streams, or even in big oceans. They stand tall with a yellow glow, and when entirely consumed will boost your physical speed. They give your tummy a funny butterfly feeling.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Wizard"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraCeler.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  4,
+                    "title":  "Esuriit Berries",
+                    "paragraphs":  [
+                        "Esuriit Berries only bloom in the warm enough months of the north, and are decently common to find in areas that allow it to be warm enough. These plants produce purple coloured berries and will replenish your hunger almost instantly when consumed. Very useful to have in any situation, but they only bloom for very short periods of time. When they're available to you, stock up on them before they mold.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraEsuriitBerries.jpg",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  5,
+                    "title":  "Hiradym",
+                    "paragraphs":  [
+                        "This flower is used as the primary healing herb. By grinding the leaves and mixing them with tree sap, one gets an ornament that helps both disinfect and heal wounds. This is primarily used by hunters and travelers on their journeys and thankfully the flower can grow in even the harshest of environments, making the supply fit the large demand.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraHiradym.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  6,
+                    "title":  "Golden Berries",
+                    "paragraphs":  [
+                        "Shortly after most Golden Apple Trees went extinct in the early days of the Cataclysm, determined Faes made it a duty to replicate them and return them in grand numbers. While that proved unsuccessful, they managed to create Golden Berries. They possess the ability to warp their taste to the consumer, tasting similar to one’s favorite dish. They also are noted to boost your morale, though one should be cautious with eating too many too quickly. These prove to be highly addictive.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Archwizard"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraGoldenBerries.jpg",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  7,
+                    "title":  "Lantern Cherry",
+                    "paragraphs":  [
+                        "One of the only berries left in Edenfell. The Lantern Cherry is a tree that sprouts lantern-like branches and produces bundles of red cherries at the end. The trees can be found in the warmer climates of Edenfell and provide necessary nutrients for many of the tribes situated around them.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "column",
+                    "img":  "floraLanternCherry.jpg",
+                    "imgType":  "mid"
+                },
+                {
+                    "divID":  8,
+                    "title":  "Snowy Delight",
+                    "paragraphs":  [
+                        "A tree that grows in the northern hemisphere of Edenfell. Instead of sprouting leaves, it collects snow at the end of its branches, and by mixing its natural sap with the snow, it ends up creating extremely sweet chilly spheres around the size of a basketball. The spheres do not weigh anything and melt easily, but if preserved right can be used as delicacy. It is closely tied to Nord culture and is often enjoyed during celebration.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Caliburn and Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraSnowyDelight.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  9,
+                    "title":  "Sunset Wheat",
+                    "paragraphs":  [
+                        "One of the more popular (and only) widespread grains found in Edenfell. Sunset Wheat is used to produce bread, beer and various other forms of pastry or dough. It can be found in places not touched by the Cataclysm too much, which means a lot of active tribes and cities were established next to their popular growing spots.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraSunsetWheat.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  10,
+                    "title":  "Pellucide",
+                    "paragraphs":  [
+                        "Pellucide fruits grow hidden away in dimly lit areas. They sprout from a glowing Pelli tree, usually also growing green crystals at its roots. The fruit itself is slightly bitter, though nourishing. However, when Pellucide get exposed to harsh lighting conditions, they crystallize into hard gems. ",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Caves"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Harmless"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraPellucide.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  11,
+                    "title":  "Martipea",
+                    "paragraphs":  [
+                        "Martipeas, often just nicknamed “martis”, are pear-shaped fruits ranging in various orange-yellow tones. Their taste, ironically enough, can be described as similar to honey. ",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan and Edom"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Harmless"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraMartipea.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  12,
+                    "title":  "Courtan",
+                    "paragraphs":  [
+                        "Originally discovered by mistake due to an explorer tripping over them, Courtans are nuts lining many forest floors. They start by growing deep underground, then eventually are pushed up to the surface by their roots. An extremely common addition to Edenfell. ",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Harmless"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraCourtan.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  13,
+                    "title":  "Opertina",
+                    "paragraphs":  [
+                        "A common plant found around Durlan and Vatha, Opertinas are a nut and a vegetable combined in one. Their bottom, hard shells are farmed for grinding down into baking purposes. The green plants they sprout are often used for salads or other vegetable-related dishes.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan and Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Harmless"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraOpertina.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  14,
+                    "title":  "Nircka",
+                    "paragraphs":  [
+                        "Typically hidden away by larger shrubs, Nirckas are mostly spotted by those with a trained eye for flora. They emit a soft, yellow light from their center. While their leaves are often used for tea, their middle must be avoided. When provoked, Nirckas release a blinding light, obscuring onlookers' vision for a singular turn.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraNircka.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  15,
+                    "title":  "Lacerta Cacti",
+                    "paragraphs":  [
+                        "Throughout the eastern desert, it's not uncommon to find harmless cacti growing. However, it's your best bet to be careful with the cacti you do find, just in case. Every so often, in a rare little patch, there's a deep, creaking plant beast hidden into the floor. When provoked (stepped on, crushed, poked, etc.), the desert floor will begin to tremble and a long reptilian-like plant beast will crawl out slowly from its position in the floor. The cacti creature has no eyes and is completely blind, but is covered in cacti needles that are constantly willing to prick you. Lacerta cacti are 2 meters in height and 5 meters long, from nose to tail.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Southern Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Deadly/Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Wizard"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraLacerta.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  16,
+                    "title":  "Mimicking Marthas",
+                    "paragraphs":  [
+                        "Mimicking Marthas are scarcely found throughout a few locations of Edenfell, scattered around in hidden bushes. They’re a bushel of little flowers, with open petals at the tops of their stems. The flowers have a unique skill to mimic various sounds and even voices. While harmless by themselves, other more dangerous wildlife has learned to use the flowers as bait to lure in unsuspecting prey.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Edom"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraMimickingMarthas.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  17,
+                    "title":  "Rubrum Hedera",
+                    "paragraphs":  [
+                        "Rubrum Hedera is a wide plant with long 'tentacle' like attributes that can grow to be a meter and a half in height. They have small spiked ridges around them, and are mainly harmless unless you happen to touch their spikes. The inside of the plant growth, however, has neat red-magenta plants growing inside. Those plants, when touched to bare skin, will give an itchy rash for around 2-3 days, similar to poison ivy. When consumed, however, they are poisonous, and can be fatal when eaten too much.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraRubrumHedera.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  18,
+                    "title":  "Somnum’s Hypnosis",
+                    "paragraphs":  [
+                        "Somnum's Hypnosis are large flowers with big, broad leaves. The inside of the flower itself emits a gentle blue glow, and it's extremely pretty to look at, especially at night. Unfortunately, that is the plant's trick, and will keep you captivated the longer you look at it. The plant does no harm except for making you lose track of time completely, and by the time you're pulled away you can find yourself questioning how long you've been standing there staring at it. If you spend more than one turn looking at Somnum's Hypnosis, you will be hypnotized for 2 turns unless snapped out of it by someone else.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Edom and Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraSomnumsHypnosis.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  19,
+                    "title":  "Venemum Swallowers",
+                    "paragraphs":  [
+                        "Venemum Swallowers are a large carnivorous plant that give off poisonous gasses in order to trap their prey. When still and unprovoked, they remain closed, and look like a tall, ordinary plant. However, when they sense something close enough to eat, their side parts slowly roll off of the center part of its body, and it emits a blue, visible poisonous gas. Once there’s enough of the poison in its prey's system, it grapples them by those same parts and opens up its center, drops it in, and feeds on it for nutrients. If a person is actively breathing in the gas for more than two turns and a half, you will be paralyzed. If grappled inside, you have a two turn opportunity to escape. If not grappled and still breathing in the poisonous gas after being paralyzed, it'll take you another two turns to die.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Vatha and Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Deadly"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraVenemumSwallowers.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  20,
+                    "title":  "Splinter Sprinter",
+                    "paragraphs":  [
+                        "A harmless cacti that houses delicious water and soft and sweet interior beneath its hard and prickly green shell. Not particularly nutritious, but enough to keep a traveler hydrated, the cacti are an amazing find for most adventurers. Only issue is that the cacti can sprout four distinct legs when disturbed, and run at insanely high speeds, making it very hard to catch.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Southern Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraSplinterSprinter.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  21,
+                    "title":  "Grassza",
+                    "paragraphs":  [
+                        "A green plant that grows on the plains of southern Edenfell. It usually grows in pairs of two or three and bears the form of a pizza. The plant is delicious to eat and even warm due to absorbing the warmth of the soil inside of it.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraGrassza.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  22,
+                    "title":  "Panacotta Flowers",
+                    "paragraphs":  [
+                        "As the name states, these are flowers that somehow grow small sweet cakes in the middle of the flower itself. They often attract tons of bees, butterflies and other sorts of critters that love sweets and pollen which is hidden inside the gelatin form of the cake.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraPanacottaFlowers.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  23,
+                    "title":  "The Azure Vacuum",
+                    "paragraphs":  [
+                        "A dangerous flower that perhaps takes its natural ability to absorb moisture a bit too seriously. Unlike normal plants that suck up water only enough to make itself live, this flower has a peculiar ability to rid something of any liquid in a matter of seconds. It usually grows in wet and moist soil, but leaves the area around it completely dry. Anyone unfortunate enough to be caught in the grasp of this plant’s tentacles will find themselves extremely dehydrated, or dead, if they don’t react quickly.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan and Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Wizard"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraAzureVacuum.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  24,
+                    "title":  "Sidus(i)",
+                    "paragraphs":  [
+                        "The Sidus plant (or Sidusi, plurally) are delicious star-shaped fruit found in Edenfell. Their space-like insides are sticky to the touch, common in jam and expensive dishes.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Azisi's Spiral"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraSidus.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  25,
+                    "title":  "Cachinnate",
+                    "paragraphs":  [
+                        "Though they are scarcely found in the wild, Cachinnate seeds can be found in most magical shops for high prices. They seem to be harvested in secret in order to prevent mass mishaps. When their blue/purple growths are plucked and thrown, they explode upon impact, sending out a powdery explosion of color. If inhaled, Cachinnates will cause uncontrollable laughter for one turn.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Found in Magic Shops for high prices, and rarely in the wild on the edges of Corrupted Forests"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare / Extremely Rare (in the wild)"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Wizard"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraCachinnate.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  26,
+                    "title":  "Pinespike",
+                    "paragraphs":  [
+                        "After the great Cataclysm, some plants in Edenfell that were already dangerous became outright lethal. Before one had to worry about half-conscious greenery that acted on pure outside stimuli, but with the collision of the worlds, certain plants evolved past that and developed instincts comparable to wild animals. ",
+                        "These humanoid plants with pine heads inhabit the areas most affected by the cataclysm. They live in hoards and survive on the toxic waters in the surrounding areas. The inside of their pine heads hides an extremely delicious and delicate seed that can enrich any dish and provide enough nutrients to last someone an entire week. Unfortunately, getting the seed is more than most are ready to bargain for.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"The Red Woods"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Deadly"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Archwizard"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraPinespike.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  27,
+                    "title":  "Lumishrooms",
+                    "paragraphs":  [
+                        "A previously widespread type of mushroom that now hides in little known parts of Edenfell’s natural habitats. The mushroom can be found all across the continent, growing in even the harshest conditions. While it has very low nutritional value, it is used to create various potent antidotes. By mixing the mushroom with the target poison, it is able to create a potent antidote, eliminating the effects of the poison when consumed.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Guinever's Conquest"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraLumishrooms.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  28,
+                    "title":  "The Reaper Mushroom",
+                    "paragraphs":  [
+                        "If the name doesn’t make you take a full turn and leave, hopefully the appearance will. Reaper Mushroom is the most toxic plant found in Edenfell, a single mushroom having enough poison inside of it to take down dozens of anthros. The peculiar trait of this shroom is that it’s practically odorless and if prepared right, can be edible. The shroom needs to be steamed over fire for hours, after which it is grilled over hot coal until its texture becomes completely crispy. If the mushroom is prepared wrong, it will instantly produce a disgustingly bitter taste in one’s mouth, though, by then it’s already too late. The mushroom is found deep inside dark and moist caverns near bodies of water.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Border of Werewick and Red Woods"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Deadly"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Wizard"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraReaperMushrooms.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  29,
+                    "title":  "Lunamis",
+                    "paragraphs":  [
+                        "Only able to grow beneath the full moon, Lunamis are very rare melons that simply take one night to blossom. Upon consumption, the eater will be granted night vision for approximately five hours. If also consumed on a full moon, said person will feel a minor buff to their stats (+1 tier for 5 turns).",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Night Chasers"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraLunamis.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  30,
+                    "title":  "Eve's Ribcage",
+                    "paragraphs":  [
+                        "Ominously looming over scarce bodies of water, Ribcages find themselves covered in blood, relying on vampiric tendencies to survive. When the sensors on their petals (their “bones”) are triggered by the sensation of a pulse, they begin to thrash around wildly, revealing their prickly middle that attacks their prey with repetitive slashes.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"The Red Woods"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Dangerous"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeputs"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraEvesRibcage.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  31,
+                    "title":  "Lirania",
+                    "paragraphs":  [
+                        "Lirania is a rare plant that turns deadly in the light. This plant is harmless until it is hit by the suns rays. As a nocturnal flower, it has adapted to the moonlight. As such, when it is touched by the light of the sun, it has a negative affect, causing the flower to hold poisonous properties.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Azisi's Spiral"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Archwizard"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraLirania.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  32,
+                    "title":  "Golden Apple Tree",
+                    "paragraphs":  [
+                        "Golden Apple Trees are exactly what they sound like. Not too different from regular apple trees, these trees merely sprout golden fruit that glow brightly. The trees had gone almost fully extinct after the Cataclysm, yet few remained, saved by being located in the old Alfenheim’s private orchards. Currently the trees can be mostly found grown inside the walls of Durlan’s capital, closely tended by Illumi Fëanor.",
+                        "The Golden Apples themselves do not possess any special properties besides being sweeter and a bit bigger than normal apples. The importance of the trees is solely tied to sentimental value.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan City"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "column",
+                    "img":  "floraGoldenApple.jpg",
+                    "imgType":  "mid"
+                },
+                {
+                    "divID":  33,
+                    "title":  "Verimawe",
+                    "paragraphs":  [
+                        "Horrific in appearance, The Verimawe resembles a talking mangled tree. While it remains to be found (and is dubiously real), the legend goes that The Verimawe is capable of restoring all flora to a state of excellency all over Edenfell. Most believe it was just a myth created by Faes in hopes of fixing what once was.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"N/A"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Legendary"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Invoker(?)"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraVerimawe.png",
+                    "imgType":  "right"
+                }
+            ]
         }
     ],
     "characters" : [
