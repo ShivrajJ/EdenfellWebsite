@@ -1,0 +1,1 @@
+import{j as o}from"./index-5996c04d.js";function n(){return o.jsx("h1",{children:"Kai Wing Woods"})}export{n as default};
