@@ -1202,6 +1202,22 @@
                     "imgType":  "right"
                 }
             ]
+        },
+        {
+            "page":"Azisi's Spiral",
+            "url":"/world/locations/map/AzisisSpiral",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Azisi's Spiral",
+                    "paragraphs":[
+                        "Azisi's Spiral is a treacherous floating island located northwest of Edenfell. It got its name by being the fast-spinning, precariously deathly location of a battle against a Voidbringer nest and the powerful Voidbringer the UnA have christened Azisi. Suspended hundreds of feet above Ocean Titane and the Boiling Lake, the island's relentless rotation creates a hazardous environment, making it incredibly dangerous for anyone to venture too close. Anything that the spiral drops into the Boiling Lake is often consumed without a trace. The island is not a known site of Voidborn activity and the whereabouts of Azisi are unknown, but the UnA faced significant challenges in their attempts to confront Azisi and neutralize the Voidbringer's threat because the island's unstable nature and the destructive power of the Boiling Lake tested their courage and resourcefulness, as such the name has stuck."
+                    ],
+                    "type":"column",
+                    "img": "AzisisSpiral.jpg",
+                    "imgType":"mid"
+                }
+            ]
         }
     ],
     "characters" : [
