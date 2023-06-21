@@ -1204,6 +1204,296 @@
             ]
         },
         {
+            "page":"Locations",
+            "url":"world/locations/",
+            "content":[
+                {
+                    "divID":1,
+                    "paragraphs":[
+                        "Small towns and villages make up the majority of the realm, which is currently governed by the cities of Durlan, Caliburn, Vatha, and Edom. The inhabitants of Edenfell are served and safeguarded by these cities, which also uphold their core values. The four cities are generally independent states, but all of them—aside from Durlan—are united under the same Trident flag since Durlan is seen as their common enemy and a threat to civic freedom. On the grounds of the tournament, the Trident cities may have passionate rivalries, but they rarely engage in open hostilities and have never declared war on one another."
+                    ],
+                    "type":"column",
+                    "img":"Locations.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":2,
+                    "title":"History",
+                    "paragraphs":[
+                        "Some folk legends claim that the five relics that now form the centers of the cities (and the edge of the Red Woods) were Elvish treasures back then, and it's even possible that Elven magic created some of them. But the only veritable source from the time before the Cataclysm doesn’t remember these relics ever being around before Nimiane shattered the world.",
+                        "The relics themselves are amazing, enigmatic artifacts with tremendous magical power and a level of awareness that is just beyond our comprehension today. There is no doubt that each of the five relics is a physical representation of one of the five virtues and has the authority to judge that virtue in people. The relics' qualities (and judgment) are viewed as being immutable and objective in Edenfell, and the majority of society is based on their infallibility."
+                    ]
+                },
+                {
+                    "divID":3,
+                    "title":"The Five Virtues",
+                    "paragraphs":[
+                        "Five fundamental virtues—loyalty, wisdom, tenacity, bravery, and strength—rule life in Edenfell. Knights, nobles, and commoners all make an effort to uphold these ideals in their daily lives. In addition to employing racially and ethnically driven profanities, people in the realm frequently mention their success or inability to uphold a certain virtue when they want to praise or condemn someone.",
+                        "The five virtues are established by the five relics and are thusly treated with absolute respect and authority. The denizens of the realm see all the virtues as ideals to strive for, but not always equally. Naturally, each city believes the virtue associated with their own relic is paramount, though, not in lieu of the others. A knight of Caliburn will admire your courage above all else but still look down upon the disloyal or foolish."
+                    ]
+                },
+                {
+                    "divID":4,
+                    "title":"Knights of the United Army (UnA)",
+                    "paragraphs":[
+                        "Knighthood is one of the highest distinctions one can attain in the Trident. As champions, heroes, and role models of morality, knights are adored. All knights of the realm, who are addressed with the honorific 'Syr', have a variety of duties, from enforcing the law in their communities and safeguarding defenseless citizens to undertaking dangerous missions to stop and capture Voidbringers who venture too near settlements or cities. They frequently act as scouts, roving the countryside searching for Higher Sentient or Voidborn. Knights frequently ride noble steeds of various sizes and kinds, wear exquisitely constructed armor and weapons, and on occasion, if they are mages (UnA mages are often called spellswords), use potent magic.",
+                        "A quest to demonstrate excellence in one of the city's virtues is required to become a knight in one of the Trident cities. In some cities, the last stage to becoming a true knight is to be assessed by the relic of that city."
+                    ]
+                }
+            ]
+        },
+        {
+            "page":"Durlan",
+            "url":"/world/locations/map/Durlan",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Durlan",
+                    "paragraphs":[
+                        "Durlan is perched on top of a hill in the far south, gazing out over the fields and pastures of the towns below. Acres of perfectly trimmed lawns and pristine, verdant gardens are enclosed within its tall white walls. Dozens of faithful guards surround the Ring of Loyalty, which is located towards the top of the main castle's central tower.",
+                        "Due to its population being primarily made up of settlement dwellers in the outer city who exchange some of their labor from foraging, herding, and other artisan and working-class crafts for the protection provided by the relatively few mages who live in the inner city, Durlan is the smallest city by population. About 300 mages live in the inner city of Durlan, and Mage Seekers and the mages they accompany form campaign groups. Families of visiting mages are given temporary housing inside the city's walls, and only the relatives of the highest-ranking officials are given permanent housing there. Non-mages are only permitted inside the city's walls if they perform necessary services that keep the city running smoothly and support a functioning civilization.",
+                        "Durlan, ironically, considers itself a beacon of peace and resistance against the spreading arcane corruption in the realm, standing as both a symbolic and literal object of power. Its mages like to say that merely speaking the city’s name will weave subtle magic of protection around the speaker and their allies. The castle is home to King Fëanor, Durlan’s ruler."
+                    ],
+                    "type":"column",
+                    "img": "Durlan.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":2,
+                    "title":"Loyalty",
+                    "paragraphs":[
+                        "Loyalty is the fundamental characteristic on which Durlan is based. Although its powerful and authoritative manner of approach would suggest that preaching and practice are very different, the city views loyalty as a foundation of kinship and trust that supports the other virtues, rather than merely mindless obedience to whoever happens to be in control.",
+                        "True harmony among people cannot exist without the capacity for trust and loyalty, and true virtue cannot exist without harmony. Due to its tendency to erode the basis of mutual respect and harmony, ego is the adversary of loyalty. As a result, Durlanite mages try to perfect their virtue by putting aside their own desires and thoughts. As a Higher Sentient, leaving the city is considered desertion, and those found guilty would be marked as wanted and executed."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":3,
+                    "title":"Durlan’s Mages and Mage Seekers: The Higher Sentient",
+                    "paragraphs":[
+                        "The Higher Sentient Army, which is ruthlessly efficient and frequently cruel in its convictions, includes all of Durlan's Mages. Above all things, the Mages of Durlan are devoted to their city's leaders, to one another, and to the entire populace that makes up the city. The name Higher Sentient is derived from the ideology that mages are the next step in Anthro evolution and a higher form of individual than the common man could ever be. Durlan’s mages try to exemplify this condescendingly self-righteous ideology by following their strict moral code and societal structure to the letter of the law. Their allegiance outweighs any haughtiness or sense of superiority; triumph belongs to the collective, not to any one person, and even the glory of a single mage benefits Durlan as a whole.",
+                        "The army of the Higher Sentient is made up entirely of mages, who are organized into units that include a Mage Seeker—a mage who specializes in finding potential mages—and a diverse group of mages to support the seeker. The Higher Sentient typically participates in patrolling the kingdom of Durlan to maintain the safety of the outlying villages and to look for any burgeoning young mages (often snatched from their resisting parents’ arms) who can be brought to the capital and trained to join its ranks.",
+                        "When battling in a group, Durlanite mages are even more fierce than they are individually. Due to loyalty, they almost never go on missions by themselves, ensuring that no mage is ever abandoned and captured by the enemy. Durlan's mages enjoy congregating at the court for the arts, company, and conversation—treasures they value beyond all others—when not engaged in combat or on solitary quests in the wild.",
+                        "Settlers seek out Durlan as much as any of the Trident cities as it provides a larger and safer body of protection for them as opposed to staying in their hamlets scattered around the continent at the mercy of prowling Voidbringers. Though they are not regarded as the equals of the mages and are often relegated to the outer city, commoners in Durlan are treated with a higher level of egalitarianism and equity than in the other cities as Durlan’s society is harmonious and has been free of the conflicts that arise from politics and misplaced ambition thus far, thanks to its virtue. It also helps that Durlan’s outer city which encircles the opulent inner city is not far behind in splendor or comfort."
+                    ],
+                    "type":"column",
+                    "img": "DurlanMageSeekers.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":4,
+                    "title":"The Ring of Loyalty",
+                    "paragraphs":[
+                        "At the heart of Durlan’s main castle is a magical ring of eternally burning silver fire known as the Ring of Loyalty. To be named a member of the Higher Sentient, aspirants must walk through the flame, for its magic can detect selfish people and undesirable motives. Those who pass through the flame unscathed are deemed worthy and christened at the center of the ring itself. Those who are burned are quickly pulled out and healed, but rarely are they allowed to attempt the trial a second time. Failure to pass the test means suffering shame as a steward of the Higher Sentient’s members as one cannot just leave."
+                    ],
+                    "type":"column",
+                    "img": "DurlanLoyalty.png",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":5,
+                    "img":"DurlanWorthyMage.jpg"
+                },
+                {
+                    "divID":6,
+                    "title":"King Fëanor, the Fireforged",
+                    "paragraphs":[
+                        "Shiv needs to write this."
+                    ],
+                    "type":"column",
+                    "img": "DurlanFeanor.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Caliburn",
+            "url":"/world/locations/map/Caliburn",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Caliburn",
+                    "paragraphs":[
+                        "Caliburn rises like an island above Everstill, a mist-shrouded lake on top of a highland in the west, a barrier constructed by the Elves to keep the Voidbringers out. Water freely flows throughout the fortress like a lavish fountain, and banners and pennants flutter from its spires. This lake is created by a mountain gap that is regularly filled with water, and the castle is perched on top of a sizable shaft in the middle of the lake. The Looking Glass is located in a murky, cavernous area at the bottom of this shaft.",
+                        "Researchers and inquirers from the other cities frequently travel the challenging distance to Caliburn since it is recognized as a hub of scholarship in the Trident and holds information that cannot be accessed elsewhere."
+                    ],
+                    "type":"column",
+                    "img": "Caliburn.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":2,
+                    "title":"Wisdom",
+                    "paragraphs":[
+                        "The knights of Caliburn consider wisdom to be the highest virtue. wisdom guides the right application of every other virtue in a variety of situations and aids in preventing problems from getting worse and becoming more serious.",
+                        "The mastery of facts is only one aspect of wisdom. The ability to combine diverse data to gain a deeper grasp of systems and principles is what distinguishes actual wisdom from a dispersed collection of unrelated facts. Wisdom's enemies include not only ignorance and foolishness but also narrow-mindedness and tradition-bound ways of thinking. The Caliburn knights must be able to modify their worldview in response to fresh knowledge and concepts."
+                    ],
+                    "type":"column",
+                    "img": "CaliburnWisdom.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":3,
+                    "title":"Caliburn's UnA Knights",
+                    "paragraphs":[
+                        "In Caliburn, knighthood is wisdom applied to the challenges of the world. To become a knight, an aspirant must tell the Looking Glass a truth it did not already know, and even then, the gift of knighthood is bestowed at the Glass’ inscrutable discretion. Once that gift is bestowed, the knights of Caliburn continue to seek out new secrets for the Looking Glass, but they also venture out into the world and the wilds to put their wisdom to use. Alongside their combat duties, many of them strive to help those who are in need of wisdom. When someone is stumped by a riddle, can't bypass an enchanted door, or is enthralled by witchcraft, a knight of Caliburn might arrive to help them out of their predicament."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":4,
+                    "title":"Lorechasers",
+                    "paragraphs":[
+                        "The lorechasers of Caliburn (also known as chroniclers or riddle-seekers) look for wildlore and delve into the mysteries of the complicated magic of the Voidborn. They are astonishingly brave and experienced scholars, and it happens frequently for knights from every city to venture into a lonely swamp or explore a cave lit only by fireflies only to discover a lorechaser of Caliburn already there. They are skilled in negotiating agreements with supernatural beings, deciphering runes, and determining the objectives and outcomes of rituals. A word of caution: be prepared to bear their answers in excruciating detail when you visit a chronicler of lore."
+                    ],
+                    "type":"column",
+                    "img": "CaliburnLorechasers.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":5,
+                    "title":"The Looking Glass",
+                    "paragraphs":[
+                        "The secret-hoarding Looking Glass is located well beneath Caliburn's Council House in a cavern that is often flooded. Only people who live in Caliburn refer to it by its real name, Gogoth. According to legend, the world's most foolish goblin (something called a durandal) once asked the world's wisest sage a question. For the remainder of his life, the sage thought about this query without coming up with a solution. After his passing, the query mysteriously persisted, converging in on itself, and the Looking Glass materialized. Everyone but the Glass is unaware of the question, but the Glass nevertheless sends loremages and knights on mystical scavenger hunts in hopes that one day it will piece together the solution."
+                    ],
+                    "type":"column",
+                    "img": "CaliburnLookingGlass1.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":6,
+                    "paragraphs":[
+                        "The Looking Glass evaluates the virtue of wisdom in all who come before it. This is examined by the Council of Ten before a knight is appointed. Even experienced knights bring new secrets to the Glass in the hopes of receiving magical boons and powers as additional rewards; yet, despite the legend, no one has ever received such a reward. Though the Looking Glass's entire potential is unknown, there is no denying the breadth of its knowledge when it chooses to answer.",
+                        "Caliburn is governed by a multi-racial council composed of ten revered individuals. This diverse Council of Ten, chosen not for their race or social standing but solely for their exceptional expertise and profound knowledge in their respective domains, wields authority over the city. The selection process is guided by the arcane Looking Glass as it transcends biases and assesses the council members' deep wisdom. Ideally, with their vast knowledge and unparalleled understanding, this esteemed council leads Caliburn with an unwavering commitment to collective well-being, making informed decisions that shape the realm's flourishing future."
+                    ],
+                    "type":"column",
+                    "img": "CaliburnLookingGlass2.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Vatha",
+            "url":"/world/locations/map/Vatha",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Vatha",
+                    "paragraphs":[
+                        "Forged by the hands of giants in an era predating Anthros' dominion, Vatha stands as an enigmatic realm, adorned with colossal and peculiar structures. At its core lies the Menhir, a relic of remarkable magnitude perched upon a prominent stone outcrop. Embracing the Menhir, the city expands, a testament to the Nords and Faes who, after the Cataclysm, erected a human-scaled enclave encircling the ancient relic. Here, the fusion of massive stone, mortal craftsmanship, and untamed growth coalesce in harmonious unity.",
+                        "Like a celestial timekeeper, the central stone of Vatha assumes the mantle of a sundial's gnomon. During specific celestial alignments, the encircling monoliths align with the celestial bodies' paths, briefly unveiling a gateway to the profound and shadowed recesses of Edenfell, where secrets dwell in the deepest darkness. When not covered in snow (which isn’t often), Vatha’s lands are lush though not as forested as the west around Caliburn and Edenfell’s south."
+                    ],
+                    "type":"column",
+                    "img": "Vatha.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":2,
+                    "title":"Strength",
+                    "paragraphs":[
+                        "Above all, the knights of Vatha hold raw physical strength in the highest esteem. A Vathan knight must possess the prowess to wield colossal weapons, don the weightiest armor, and showcase feats of strength that verge on the superhuman. While the strength of will and character are also valued, they are seen as complementary to physical power, not substitutes.",
+                        "Strength, being the most overt of virtues, molds the very fabric of the Vathan perspective. Action reigns paramount, overshadowing intention and desire. Those who fixate on their inner lives and personal virtue without translating them into tangible deeds are regarded with disapproval."
+                    ],
+                    "type":"column",
+                    "img": "VathaStrength.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":3,
+                    "title":"Vatha's UnA Knights",
+                    "paragraphs":[
+                        "To ascend to the esteemed rank of a Vathan knight, one must exhibit a formidable display of strength, surpassing the expectations set by their stature and race. The ruler of the court, the discerning arbiter of knighthood, is none other than Jarl Thrawn, whose standards are exceptionally high, resulting in a scarcity of knights within Vatha.",
+                        "Those who have attained the coveted title of knighthood revel in their robust might, employing it readily even in endeavors deemed less knightly by the other Trident cities. Vathan knights can often be found engaging in wrestling matches and confronting formidable beasts within the depths of the forest. Yet, they are equally likely to be seen participating in acts of community service, such as bearing water in a fire brigade or clearing fallen trees after a tempestuous storm. The knights hold a fondness for tales and competitions that unfold in the grand hall of Vatha Castle, but their true calling lies beyond its confines, where they tirelessly extend their aid and safeguard the vulnerable and virtuous souls that dwell in the world."
+                    ],
+                    "type":"column",
+                    "img": "VathaUnAKnights.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":4,
+                    "title":"The Menhir",
+                    "paragraphs":[
+                        "Contrary to its name, the Menhir comprises a grand assembly of colossal stone monoliths arranged in diverse shapes and patterns, contingent upon the time of visitation. At the heart of this henge, a solitary mountainous slab commands the center stage, serving as the gnomon of a prodigious sundial. During select dates, at sunrise and sunset, the encompassing monoliths cast shadows in such a manner that the central stone transforms into a mystical gateway, leading to unknown depths of Edenfell. The encircling calendar stones can be lifted and repositioned to synchronize with the desired time and destination for this extraordinary voyage. Merely shifting a single monolith, even slightly, stands as an astonishing feat of strength, while maneuvering multiple stones into their precise locations to unlock the portal virtually assures the attainment of Vathan knighthood.",
+                        "If a person passes through at sunrise and doesn't come back at sunset, they might come back after a year and a day; if they don't come back then, they are probably lost forever…or they can just walk back."
+                    ],
+                    "type":"column",
+                    "img": "VathaMenhir.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":5,
+                    "title":"Jarl Thrawn",
+                    "paragraphs":[
+                        "Nords usually reside in the colder regions north of Edenfell and are often large, burly fellows with a thickness of hair that makes the biting cold no more than a pesky inconvenience. Vatha is an absolute monarchy and has always been ruled by a Jarl. ",
+                        "The current Jarl of Vatha is the giant Nord named Thrawn, who towers over even others of his kind and has a mane and mantle of curiously green hair. He wears a crown fashioned from the broken weapons of those who have challenged him to claim his position. Positioned beneath the shelter of the overhanging gnomon stone, Jarl Thrawn's throne symbolically upholds the weight of the stone, safeguarding the people of Vatha. To the knights and nobles within the court, Vatha and its sovereign serve as a poignant reminder of the righteous employment of strength: the protection of those who are weaker than oneself."
+                    ],
+                    "type":"column",
+                    "img": "VathaJarlThrawn.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Edom",
+            "url":"/world/locations/map/Edom",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Edom",
+                    "paragraphs":[
+                        "Edom was constructed in the naturally freezing northeastern region, which is not an ideal location for anyone except the Nords. However, the warmth emitted by the volcanoes in these icy lands enticed and offered solace to the Changelings who established this city. It also served as a refuge from external threats, thanks to the encircling mountains that effectively kept the dangerously close Voidborns and their accompanying corruption at bay. Edom's foundation was laid at the base of a prominent mountain called Ironhold, with the city sprawling outward into the valley and beyond. While the term 'Edom'  refers to the entire encompassing free city, its central castle, often referred to as the 'place of the thrill' by Edomites, is officially recognized as the Rising Ash.",
+                        "The Rising Ash comprises a vast array of competition arenas, training facilities, and spectator seating under the ownership of the UnA (United Alliance). It serves as the perpetual host of an ongoing tournament that showcases a diverse range of martial skills, including jousting, wrestling, horseback melee, one-on-one combat, archery, and more. Renowned throughout the Trident, this cherished venue attracts knights and aspiring contenders from all three cities, offering them an opportunity to gauge their abilities against formidable opponents. Participation is open to all those brave enough to step forward."
+                    ],
+                    "type":"column",
+                    "img": "Edom.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":2,
+                    "title":"Bravery",
+                    "paragraphs":[
+                        "The knights of Edom firmly uphold bravery as the utmost virtue, recognizing that genuine virtue cannot exist without bravery. They understand that without courage, individuals would never venture into uncharted territory or endeavor to enhance their skills. Yet, armed with bravery in their hearts, they view no challenge as insurmountable.",
+                        "In the pursuit of valor, fear and cowardice are considered adversaries by the knights of Edom. They dedicate themselves to conquering their own fears. While they acknowledge that complete liberation from fear is unattainable, they impart the wisdom that fear is a valuable tool. They advocate for harnessing fear as a catalyst for achievement, distinguishing true bravery from mere recklessness. The knights of Edom frequently reference the words of Indreon, the first knight of Ironhold, who proclaimed, “Fear is the herald of valor that designates the adversary fit for the lance's fatal embrace.”",
+                        "Edom’s knights pursue a feeling called the Thrill by Edomites that can be gotten in battle or in any daunting and overtly challenging task. This high and the overcoming of the obstacle that causes it is seen as one of the most “tangible” rewards for bravery among them and many live their lives in constant pursuit of the Thrill."
+                    ],
+                    "type":"column",
+                    "img": "EdomBravery.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":3,
+                    "title":"Edom's UnA Knights",
+                    "paragraphs":[
+                        "Renowned for their unwavering optimism, the knights of Edom exude an unwavering certainty in their ability to triumph against any obstacle, so long as they confront it head-on. With their convivial nature and unwavering self-assurance, they eagerly embrace novel experiences, even though their own lifespans tend to be relatively brief as a result.  They constantly tow the thin line between valor and foolishness in the eyes of other people, especially those used to Caliburn's society and perception of things. As a testament to their bravery, these knights eschew the use of shields, instead adorning their armor with the shattered remnants of their vanquished foes' defenses.",
+                        "Attracted to the most dangerous of quests all the time, Edom's knights ardently believe that the most daunting challenges are the ones truly worth surmounting. It is in facing supernatural perils that would quell weaker spirits that they truly excel, and as a result, they eagerly fill the ranks of the UnA and willingly provide numbers of knights and spellswords that embark on the campaigns to push back the encroaching Voidbringers. Amidst their endeavors to vanquish monstrous threats, they also go on personal odysseys to conquer their deepest fears. One knight may seek to vanquish a creature that frightened them as children, another to avenge their mother's being taken by a monster, or yet another to challenge the colossal giant who hurt their beloved (or just a Nord who was an asshole)."
+                    ],
+                    "type":"column",
+                    "img": "EdomUnAKnights.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":4,
+                    "title":"Ironhold",
+                    "paragraphs":[
+                        "The Rising Ash stands nestled beside the scorching Ironhold, a colossal mountain pulsating with volcanic fervor. To earn the esteemed title of an Edomite knight, a hopeful must confront the phobomantic illusionary dread that arises from the rock's searing surface, plunging their blade into its fiery core. If their mettle prevails and they are brave, they can withdraw their weapon, but should fear or cowardice impede them, the sword remains ensnared in the clutches of Ironhold.",
+                        "Edomite lore speaks of Ironhold's clandestine whispers, audible solely to the aspiring knights, often taunting and jeering as a litmus test of their courage. Legend credits this taunting as the catalyst that inspired Indreon to be the first to impale the stone with her sword. There is a myth that on rare occasions, when Ironhold deems a knight exceptionally worthy, it endows their weapon with an immortal boon, forever infusing it with its own mystical prowess. This has never happened, however."
+                    ],
+                    "type":"column",
+                    "img": "EdomIronhold.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":5,
+                    "title":"Rule",
+                    "paragraphs":[
+                        "Instead of a sole ruler, Edom is governed by a ruling council comprised of knights and members of the noble class. The council's ambassador is chosen through democratic means, with the city's residents voting for their preferred candidate. However, despite this democratic structure, political tension, including racial and social class issues, pervades Edom, much like the other Trident cities.",
+                        "The nobility, in particular, is known for their hot-headedness and intense emotions, which is evident in the frequency of personal conflicts that are taken outside of the Rising Ash. Even minor disputes among the nobility are settled through competitions or combat. These contests rarely result in death, and all participants accept the outcome as the final resolution of their disagreements. Consequently, grudges are short-lived, and the council can conduct its business with a degree of civility."
+                    ],
+                    "type":"column"
+                }
+            ]
+        },
+        {
             "page":"Azisi's Spiral",
             "url":"/world/locations/map/AzisisSpiral",
             "content":[
@@ -1215,6 +1505,285 @@
                     ],
                     "type":"column",
                     "img": "AzisisSpiral.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"The Red Woods",
+            "url":"/world/locations/map/TheRedWoods",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"The Red Woods",
+                    "paragraphs":[
+                        "Deep in the heart of the land lies the Red Woods, a haunting place where time seems to stop and nature's vitality has been paused. Here, old trees reach towards the sky with their twisted branches, their canopy thick and lush, but with no new growth. In this forever twilight realm, the Red Woods stands as a solemn reminder of past battles and lives lost.",
+                        "Once a site of fierce confrontation between Durlan's Higher Sentient and the encroaching forces of darkness, the Red Woods bear the scars of that tumultuous conflict. The ground, tainted by the blood of fallen heroes, remains a poignant reminder of the sacrifices made in the name of protection. Moss-clad trunks and twisted roots intertwine, creating a somber tapestry that tells the tale of valor and loss."
+                    ],
+                    "type":"column",
+                    "img": "TheRedWoods.png",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Woden's Hill",
+            "url":"/world/locations/map/TheRedWoods",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Woden's Hill",
+                    "paragraphs":[
+                        "At the border between the Red Woods and Woden's Marsh, a mysterious monolith stands tall. Its surface bears the engraved word 'tenacity', representing the fifth core virtue of Edenfell. Though the Monolith doesn't possess any proven or discernible powers, it has an intriguing history. During a seemingly hopeless battle between the Higher Sentient and the Voidborns, victory was claimed only after the Sentient was driven into a corner, with their backs against the wall—quite literally, as the wall they found strength from was the Monolith. The Monolith became a symbol of renewed vigor and inner unity, enabling the Sentient to overcome adversity.",
+                        "Similar stories have emerged over time, recounting settlers fleeing from the Voidbringers or lost and drained of stamina, finding a surge of energy and determination when near the Monolith. However, these accounts remain unverified, as no tangible evidence has supported the claims. People who have sought to test these stories at the Monolith have experienced nothing out of the ordinary. Thus, these tales are often dismissed as mere coincidence, fabrication, or exaggeration. Nevertheless, the enigmatic presence of the Monolith continues to capture the imagination of those who encounter it, leaving them to ponder the possibility of hidden forces at play or the significance of the human spirit in the face of adversity."
+                    ],
+                    "type":"column",
+                    "img": "WodensHill.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Sorceror's Graveyard",
+            "url":"/world/locations/map/TheRedWoodsSorcerorsGraveyard",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Sorceror's Graveyard",
+                    "paragraphs":[
+                        "Once a site of fierce confrontation between Durlan's Higher Sentient and the encroaching forces of darkness, the Red Woods bear the scars of that tumultuous conflict. The ground, tainted by the blood of fallen heroes, remains a poignant reminder of the sacrifices made in the name of protection. Moss-clad trunks and twisted roots intertwine, creating a somber tapestry that tells the tale of valor and loss.",
+                        "Within this forsaken sanctuary, no traditional tombstones mark the fallen. Instead, the ancient trees themselves serve as silent sentinels, bearing the weight of memory and homage. Visitors are rare, for the Red Woods still harbor hidden dangers and remnants of evil that linger. It is a place of solitude and contemplation, where the spirits of the fallen find solace amidst the ancient giants. The Red Woods stands as a testament to the everlasting sacrifice and unwavering courage, their silent presence a tribute to the battles fought and the souls lost within their shadowed depths."
+                    ],
+                    "type":"column"
+                }
+            ]
+        },
+        {
+            "page":"Devil's Workshop",
+            "url":"/world/locations/map/DevilsWorkshop",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Devil's Workshop",
+                    "paragraphs":[
+                        "Devil's Workshop, a mysterious floating island near Edom, has recently gained notoriety due to an enigmatic incident involving a Cherub. The island had long remained unnamed and relatively untouched by the looming threat of the Voidbringers. However, a sighting of a peculiar creature, rumored to be a Cherub, near Caliburn led to speculation that it sought refuge on the secluded island once the battle had concluded. This event sparked curiosity and intrigue, and the island was subsequently christened Devil's Workshop due to the unknown and suspicious activities taking place there."
+                    ],
+                    "type":"column"
+                }
+            ]
+        },
+        {
+            "page":"UnA Stronghold",
+            "url":"/world/locations/map/UnAStronghold",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"UnA Stronghold",
+                    "paragraphs":[
+                        "The UnA Stronghold, nestled in the majestic valley of Edenfell's northernmost mountains, serves as the impregnable headquarters of the United Army. It stands as a bastion of strength and resilience, a symbol of the unwavering commitment to defend the Trident and repel the relentless advances of the Voidbringers and Higher Sentient. This state-of-the-art fortress is equipped with the finest facilities, meticulously designed to support and nurture the warriors who stand as the shield between Edenfell and the encroaching darkness.",
+                        "Within the UnA Stronghold, every detail has been carefully considered to ensure the utmost efficiency and functionality. The armory is a sight to behold, lined with rows upon rows of gleaming weapons, meticulously crafted by master artisans. From the sharpest blades to the most intricate enchanted armaments, the armory leaves no room for compromise in the pursuit of excellence."
+                    ],
+                    "type":"column",
+                    "img": "UnAStronghold.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"UnA Stronghold Fortress",
+            "url":"/world/locations/map/UnAStrongholdFortress",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"UnA Stronghold Fortress",
+                    "paragraphs":[
+                        "Within the UnA Stronghold Fortress, every detail has been carefully considered to ensure the utmost efficiency and functionality. The armory is a sight to behold, lined with rows upon rows of gleaming weapons, meticulously crafted by master artisans. From the sharpest blades to the most intricate enchanted armaments, the armory leaves no room for compromise in the pursuit of excellence."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":2,
+                    "title":"Quarters",
+                    "paragraphs":[
+                        "Adjacent to the armory lies the barracks, a sprawling complex that houses and trains the diverse array of swordsmen, warriors, and mages who have dedicated their lives to the great duty of protecting Edenfell. The barracks provide a home away from home for the soldiers, with comfortable quarters, training grounds, and sparring arenas where combat skills are honed to perfection."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":3,
+                    "title":"The Grand Library",
+                    "paragraphs":[
+                        "In addition to its functional aspects, the UnA Stronghold also boasts a rich infrastructure of knowledge and education. The Grand Library within its walls houses an extensive collection of ancient tomes, grimoires, and scrolls, providing a wealth of arcane knowledge to the mages and spellcasters who seek to deepen their understanding of the forces they wield. Scholars and strategists convene in dedicated chambers, analyzing maps, deciphering prophecies, and formulating battle plans to counter the ever-evolving threats faced by Edenfell."
+                    ],
+                    "type":"column",
+                    "img":"UnAStrongholdGrandLibrary.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":4,
+                    "title":"The Workshop",
+                    "paragraphs":[
+                        "The Stronghold also serves as a center for innovation and research. Within its workshops, master craftsmen and alchemists collaborate to develop new weapons and protective gear, pushing the boundaries of what is possible. State-of-the-art laboratories hum with activity as alchemists experiment with rare components and enchanters weave powerful spells into the very fabric of the warriors' equipment. The UnA Stronghold serves as a beacon of progress, where ancient traditions intertwine with cutting-edge technologies to create a formidable fighting force.",
+                        "This is where relics are requested and purchased."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":5,
+                    "title":"Training Grounds",
+                    "paragraphs":[
+                        "Amidst the steel and stone, the heart of the UnA Stronghold lies in the camaraderie and resilience of its inhabitants. The warriors who call this fortress their home forge unbreakable bonds united in their purpose and shared commitment. The training grounds echo with the clashing of swords and the crackling of magic as seasoned veterans impart their wisdom to the next generation of defenders. Here, the spirit of honor, duty, and sacrifice is nurtured, ensuring that those who emerge from the UnA Stronghold are not only skilled warriors but also embody the very essence of unwavering resolve."
+                    ],
+                    "type":"column"
+                }
+            ]
+        },
+        {
+            "page":"Woden's Marsh",
+            "url":"/world/locations/map/WodensMarsh",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Woden's Marsh",
+                    "paragraphs":[
+                        "Woden's Marsh, located west of Edenfell, is a marshland where the corrupting influence of Nimiane holds its most potent sway, second only to Obscuron. Situated between Ocean Titane to the west, which still supports some forms of life, and the Dead Ocean to the east, completely consumed by corruption, Woden's Marsh is an unforgiving place where survival is measured in a matter of hours or even minutes. The marsh is infested with the strongest Voidborn creatures and their numerous hordes, making it a hotbed of danger. The corruption in the air and nature is overwhelming, draining the very essence of life itself. It stands as a perilous expanse, highly fatal and fraught with hazards. Venturing into Woden's Marsh is not just a suicidal act, but almost a guaranteed death sentence for all but the most supernaturally gifted or powerful individuals in Edenfell. Only the resilient bayou bears manage to survive in this inhospitable environment, likely by remaining submerged in the murky swamp water for extended periods and adapting to the harsh conditions. However, even they prefer other swamplands, including those close to the Kai Wings who prey on them, over this treacherous marsh."
+                    ],
+                    "type":"column",
+                    "img":"WodensMarsh.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Werewick",
+            "url":"/world/locations/map/Werewick",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Werewick",
+                    "paragraphs":[
+                        "Werewick, located west of Edenfell, is a region abundant with extensive ruins from the old world. These ruins constantly attract the attention of the UnA scouts and Lorechasers, who are dedicated to discovering and excavating the remnants of the past. The area is characterized by precarious highlands and towering mountains, their snow-covered peaks reaching toward the sky. At the heart of this highland range lies the Tigron Cliffs, a ring of the tallest peaks in Edenfell, surrounded by other impressive mountains and the winding river valleys that flow between them. ",
+                        "While Werewick falls within the danger zone influenced by the corruption of the Voidborns, it is not as severely affected as places like Woden's Marsh or the Red Woods. The uneven terrain of the highland, coupled with the vigilant efforts of Caliburn's UnA scouts, helps to mitigate the spread of corruption. Despite the inherent risks, the allure of the ancient ruins and the potential knowledge they hold drive the UnA scouts and Lorechasers to explore the area, unearthing fragments of history and piecing together the story of the old world. Werewick tests the resilience and determination of those who seek to unravel the mysteries of the past, even in the face of darkness and danger."
+                    ],
+                    "type":"column",
+                    "img":"Werewick.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Guinevere's Conquest",
+            "url":"/world/locations/map/GuineveresConquest",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Guinevere's Conquest",
+                    "paragraphs":[
+                        "Guinevere's Conquest stands as a testament to the unwavering determination and indomitable spirit of the Nordic General Guinevere de la Fontaine, the extraordinary spellsword who led the UnA to their greatest victory. This floating island, sit36uated in the northern region of Edenfell, had long been plagued by the relentless onslaught of the Voidborn, dark creatures born of corruption and chaos. However, under Guinevere's exceptional leadership, the UnA forces united and launched a monumental campaign to reclaim the island and purge it of the malevolent presence that had plagued it for centuries.",
+                        "The battle that unfolded on Guinevere's Conquest was a grueling and harrowing affair, as the UnA faced off against the massed ranks of the Voidborn. The air crackled with magic as Guinevere, wielding her enchanted blade and commanding powerful spells, led her troops fearlessly into the heart of the enemy's stronghold. With strategic brilliance and unparalleled combat prowess, she inspired her soldiers to fight with unwavering resolve, rallying them even in the face of overwhelming odds. The clash of steel and the eruption of spells echoed throughout the island as the UnA forces pushed back the Voidborn, inch by hard-fought inch.",
+                        "With the Voidborn vanquished and the island freed from their malevolent influence, Guinevere's Conquest earned its name as a tribute to the extraordinary deeds of General Guinevere and the UnA forces. The victory marked a turning point in the war against the Voidborn, inspiring hope and renewing faith in the struggle against the forces of corruption. Guinevere's leadership and prowess as a spellsword became legendary, and her name became synonymous with courage and unwavering determination. Guinevere's Conquest stands as a symbol of triumph, reminding all who look upon it of the resilience of humanity and the power of unity in the face of darkness."
+                    ],
+                    "type":"column",
+                    "img":"GuineveresConquest.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Kai Wing Woods",
+            "url":"/world/locations/map/KaiWingWoods",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Kai Wing Woods",
+                    "paragraphs":[
+                        "To the east of Durlan lies the Kai Wing Woods, a woodland forest known for its dense vegetation, even though its trees may not reach the towering heights of the Night Chaser Forest. The forest derives its name from being the predominant home of the Kai Wing population in Edenfell. Within its boundaries, the Kai Wing Woods boasts an abundance of Golden Berry and Lantern Cherry trees, which contribute to the forest's vibrant atmosphere. Additionally, the woodland is characterized by numerous bodies of water, including creeks, streams, and small springs and pools. It is believed that the presence of these water sources is a significant factor in why the untamable Kai Wings have chosen this forest as their habitat. The Kai Wings have a deep affection for the fish that can still be found in the waters, despite the encroaching corruption that threatens the forest from the north and east."
+                    ],
+                    "type":"column",
+                    "img":"KaiWingWoods.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Night Chasers",
+            "url":"/world/locations/map/NightChasers",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Night Chasers",
+                    "paragraphs":[
+                        "The Night Chaser Forest is a breathtaking place filled with emerald trees and a magical atmosphere. As you go deeper into the forest, you'll see towering ancient trees that create a beautiful canopy, allowing only a little sunlight to reach the ground. The filtered sunlight creates a mesmerizing display of light and shadow, making the surroundings shine in shades of green and gold. In this vibrant forest, there's a symphony of life. Colorful plants cover the forest floor, filling the air with delightful scents. Moss-covered rocks and twisted roots seem to have stories to tell about the forest's mysterious origins. The forest is home to both ordinary and extraordinary animals, including elusive creatures called Chasers that dart between the trees, captivating anyone lucky enough to see them.",
+                        "The Night Chaser Forest is a paradise for gatherers and hunters. People who understand the forest's secrets venture forth with baskets and bags to collect the treasures of nature. Delicious wild berries with a perfect balance of sweetness and tartness burst with flavor, and glowing mushrooms entice the curious to explore their hidden world. Skilled hunters, armed with ancient knowledge, move silently through the forest, blending in with the wilderness as they seek elusive game or valuable Chasers. However, even in the beauty of the Night Chaser Forest, there is a sense of danger in the northeastern part. People share scary stories of darkness, horror, and fear. Many feel uneasy, catching glimpses of frightening creatures called Voidbringers. It's a region where caution is necessary, and even the bravest adventurers proceed with wariness."
+                    ],
+                    "type":"column",
+                    "img":"NightChasers.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"New Frontier",
+            "url":"/world/locations/map/NewFrontier",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"New Frontier",
+                    "paragraphs":[
+                        "The New Frontier, an uncharted continent lying to the east of Edenfell, has recently piqued the interest of explorers and groups such as the Lorechasers and the United Army (UnA). While still largely unexplored, initial ventures into the continent have revealed a lack of overwhelming Voidbringer presence, sparking growing curiosity and excitement among those seeking new knowledge and opportunities. As Lorechasers delve deeper into the uncharted lands and the UnA ensures the safety of expeditions, the New Frontier becomes a symbol of untapped potential, offering a fresh canvas for discovery and exploration beyond the known boundaries of Edenfell."
+                    ],
+                    "type":"column"
+                }
+            ]
+        },
+        {
+            "page":"No Man's Land",
+            "url":"/world/locations/map/NoMansLand",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"No Man's Land",
+                    "paragraphs":[
+                        "No Man's Land is one of Edenfell’s floating islands, perpetually spinning in place hundreds of feet above the ocean on which it once sat. It is a desolate place forsaken by hope and hopelessly overrun by Voidborn that stands as a haunting testament to the ruins of the old world. Buried within its broken soil, remnants of once-great civilizations lie entombed, their glory reduced to shattered fragments. Jagged crevices and upheaved terrain bear witness to the Cataclysm's destructive power.",
+                        "On this forsaken island, an ethereal mist hangs heavy, obscuring vision and distorting sounds. Nature's forces clash in ceaseless turmoil, flooding the broken landscape with relentless fury. Barren and lifeless, the skeletal remains of trees reach for a sun obscured by dense fog. Stagnant waters, tainted by the corruption carried by the Voidbringers, exude a noxious miasma.",
+                        "No Man's Land stands as a testament to the transience of human endeavors and the fragility of existence. Amidst the ruins and draining life force, a profound sense of tragedy lingers."
+                    ],
+                    "type":"column",
+                    "img":"NoMansLand.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Obscuron",
+            "url":"/world/locations/map/Obscuron",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Obscuron",
+                    "paragraphs":[
+                        "Obscuron is a desolate and nightmarish place that is the epitome of devastation and despair. It is the haunting Ground Zero of the Cataclysm, the apocalyptic event triggered by Nimiane's fateful actions that shattered the world and fused the realms of Edenfell and Limbo, an unknown, malevolent dimension. The consequences of this event transformed Obscuron into a place devoid of life and brimming with constant peril. Poisonous cascading waterfalls are frozen in time, while the very air itself erodes life and stifles the flow of magic. The plants within this forsaken land are trapped in eternal decay, driven to feed on any remaining traces of life, much like the hordes of mindless Voidbringers that roam the continent and its grotesque floating islands, akin to relentless undead zombies.",
+                        "At the heart of Obscuron stands Fëanor's Peak, a foreboding mountain that serves as a grim reminder of the horrors that befell the old world. It is here that King Fëanor, the lone survivor of an unsuccessful expedition, emerged from Limbo, returning to Edenfell as a witness to the devastation that consumed his companions. Obscuron isn’t just in the danger zone, it is the danger zone. Wandering into this place is foolishness that spells nothing but an imminent and agonizing end."
+                    ],
+                    "type":"column",
+                    "img":"Obscuron.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"The Nest Lands",
+            "url":"/world/locations/map/TheNestLands",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"The Nest Lands",
+                    "paragraphs":[
+                        "The Nest Lands is a remarkable collection of floating islands, suspended high above the ocean and untouched by the influence of the Voidborn. These islands serve as the ideal habitat for the White Wings, majestic creatures that build their nests within the ground. Located hundreds of feet above the water, the Nest Lands presents a breathtaking sight and an environment that is, like other floating islands, often only accessible to mages and individuals capable of flight.",
+                        "Despite the challenges of reaching the Nest Lands, these islands attract a steady stream of adventurers, daredevils, and expeditions each year. The allure of exploring this unique and unspoiled realm, coupled with the opportunity to witness the graceful flight and nesting habits of the White Wings, draws people from far and wide. The Nest Lands offer a sense of wonder and an escape from the dangers and corruption that plague other parts of Edenfell, making it a coveted destination for those seeking adventure and the chance to witness the marvels of nature in a truly extraordinary setting."
+                    ],
+                    "type":"column",
+                    "img":"TheNestLands.jpg",
                     "imgType":"mid"
                 }
             ]
