@@ -1292,7 +1292,8 @@
                 },
                 {
                     "divID":5,
-                    "img":"DurlanWorthyMage.jpg"
+                    "img":"DurlanWorthyMage.jpg",
+                    "imgType":"mid"
                 },
                 {
                     "divID":6,
@@ -1300,9 +1301,9 @@
                     "paragraphs":[
                         "Shiv needs to write this."
                     ],
-                    "type":"column",
+                    "type":"inline",
                     "img": "DurlanFeanor.jpg",
-                    "imgType":"mid"
+                    "imgType":"left"
                 }
             ]
         },
@@ -1748,9 +1749,9 @@
                         "On this forsaken island, an ethereal mist hangs heavy, obscuring vision and distorting sounds. Nature's forces clash in ceaseless turmoil, flooding the broken landscape with relentless fury. Barren and lifeless, the skeletal remains of trees reach for a sun obscured by dense fog. Stagnant waters, tainted by the corruption carried by the Voidbringers, exude a noxious miasma.",
                         "No Man's Land stands as a testament to the transience of human endeavors and the fragility of existence. Amidst the ruins and draining life force, a profound sense of tragedy lingers."
                     ],
-                    "type":"column",
+                    "type":"inline",
                     "img":"NoMansLand.jpg",
-                    "imgType":"mid"
+                    "imgType":"left"
                 }
             ]
         },
@@ -1765,9 +1766,9 @@
                         "Obscuron is a desolate and nightmarish place that is the epitome of devastation and despair. It is the haunting Ground Zero of the Cataclysm, the apocalyptic event triggered by Nimiane's fateful actions that shattered the world and fused the realms of Edenfell and Limbo, an unknown, malevolent dimension. The consequences of this event transformed Obscuron into a place devoid of life and brimming with constant peril. Poisonous cascading waterfalls are frozen in time, while the very air itself erodes life and stifles the flow of magic. The plants within this forsaken land are trapped in eternal decay, driven to feed on any remaining traces of life, much like the hordes of mindless Voidbringers that roam the continent and its grotesque floating islands, akin to relentless undead zombies.",
                         "At the heart of Obscuron stands Fëanor's Peak, a foreboding mountain that serves as a grim reminder of the horrors that befell the old world. It is here that King Fëanor, the lone survivor of an unsuccessful expedition, emerged from Limbo, returning to Edenfell as a witness to the devastation that consumed his companions. Obscuron isn’t just in the danger zone, it is the danger zone. Wandering into this place is foolishness that spells nothing but an imminent and agonizing end."
                     ],
-                    "type":"column",
+                    "type":"inline",
                     "img":"Obscuron.jpg",
-                    "imgType":"mid"
+                    "imgType":"left"
                 }
             ]
         },
@@ -1785,6 +1786,189 @@
                     "type":"column",
                     "img":"TheNestLands.jpg",
                     "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"magic",
+            "url":"/world/magic",
+            "content" : [
+                {
+                    "divID":1,
+                    "title":"Magic: What is it?",
+                    "type":"column"
+                },
+                {
+                    "divID":2,
+                    "type":"column",
+                    "img":"Magic.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":3,
+                    "paragraphs":[
+                        "The manifestation of magic is called Weaving. There exists an unseen infinite magical force leaking into all the realms, referred to as the Loom, that is the very fabric of divinity. Magical creatures and individuals are capable of sensing the Loom and (sometimes with brief training) can reach out, grab and shape this fabric of magic, thus Weaving. Mages and wielders of magic are called Magic Sensitives or Weavers. ",
+                        "Mages can interact with and manipulate the Loom using Mana, the ether that connects them to the Loom, acting as a bridge between the physical world and this higher realm of the divine. Depending on how much Mana they possess, Mages are acutely aware of the Loom and can feel the magic around them from the day they are born. ",
+                        "The amount of Mana a mage has access to determines how much of the Loom they can tap into and wield, i.e. their magic capacity. This is reflected in the number and magnitude of Spells a mage can cast at full strength."
+                    ],
+                    "type":"inline",
+                    "img":"MagicHands.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID":4,
+                    "title":"Spell Weaving and Blood",
+                    "paragraphs":[
+                        "Spells are magic in action. Spell weaving is the act of creating and casting a magical effect and is basically a blanket term for the expression of magic. The number and power of spells a mage has in their arsenal are determined by the amount of Mana flowing through them. Players earn spell slots as they gain experience per Tier. Spell slots represent the potential individual spell capacity a mage has. They can either be used to cast a single spell each or combined to cast a spell worth several slots and therefore far greater in power, albeit more expensive to use.",
+                        "Each player has access to a limited amount of Mana represented by a limited number of spells (spell slots) determined by their rank as already mentioned. Weaving more powerful spells means consuming more Mana (i.e. combining and using up available spell slots) per scene and therefore potentially running out before the scene is over, but it could also mean dealing a more potent or fatal blow to an obstacle or enemy sooner than later. ",
+                        "Mana resets in each new scene but it can also be replenished using Blood. Because Mana flows through mages and magical creatures in the same way blood does, it is found entwined with the substance and is, therefore, part of their lifeblood. Consuming one’s own blood or blood from another who possesses magic will replenish a mage’s Mana by 50% flat, no matter how much is consumed (so it would be wise not to bleed yourself dry). Blood can only be used once per scene (unless otherwise stated) so be prudent with how you choose to use it."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":5,
+                    "title":"Tiers (the numbers business no one likes)",
+                    "paragraphs":[
+                        "Spells are magic in action. Spell weaving is the act of creating and casting a magical effect and is basically a blanket term for the expression of magic. The number and power of spells a mage has in their arsenal are determined by the amount of Mana flowing through them. Players earn spell slots as they gain experience per Tier. Spell slots represent the potential individual spell capacity a mage has. They can either be used to cast a single spell each or combined to cast a spell worth several slots and therefore far greater in power, albeit more expensive to use.",
+                        "Each player has access to a limited amount of Mana represented by a limited number of spells (spell slots) determined by their rank as already mentioned. Weaving more powerful spells means consuming more Mana (i.e. combining and using up available spell slots) per scene and therefore potentially running out before the scene is over, but it could also mean dealing a more potent or fatal blow to an obstacle or enemy sooner than later. ",
+                        "Mana resets in each new scene but it can also be replenished using Blood. Because Mana flows through mages and magical creatures in the same way blood does, it is found entwined with the substance and is, therefore, part of their lifeblood. Consuming one’s own blood or blood from another who possesses magic will replenish a mage’s Mana by 50% flat, no matter how much is consumed (so it would be wise not to bleed yourself dry). Blood can only be used once per scene (unless otherwise stated) so be prudent with how you choose to use it.",
+                        {
+                            "type":"table",
+                            "content":[
+                                {
+                                    "type":"tr",
+                                    "content":[
+                                        {
+                                            "type":"th",
+                                            "text":"Tier"
+                                        },
+                                        {
+                                            "type":"th",
+                                            "text":"EXP"
+                                        },
+                                        {
+                                            "type":"th",
+                                            "text":"Spells"
+                                        },
+                                        {
+                                            "type":"th",
+                                            "text":"Relative Peak Output (scale, speed, weight, destructive power)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content":[
+                                        {
+                                            "type":"td",
+                                            "text":"Invoker"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"20000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"25+"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"Mountain, Mikoyan MiG-25, freight train (4000T), Little Boy Uranium 235 warhead"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content":[
+                                        {
+                                            "type":"td",
+                                            "text":"Adeptus"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"10000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"15-19"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"Small Town, Commercial Plane, House (156T), Boeing B-29 Superfortress"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content":[
+                                        {
+                                            "type":"td",
+                                            "text":"Wizard"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"5000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"10-14"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"Skyscraper, Ferrari FXX Evo, Tank (55T), NLAW Anti-Tank Weapon"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content":[
+                                        {
+                                            "type":"td",
+                                            "text":"Acolyte"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"3000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"8-9"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"Large Building, Cheetah, Large Car (2T-3T), RPG-7"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content":[
+                                        {
+                                            "type":"td",
+                                            "text":"Initiate"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"0"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"5-7 (3-7 for Nords)"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"Small Building, Gazelle, Compact Car (1T), Hand Grenade"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "Initiate Nords start with fewer spells than characters of other races as they have the lowest Mana among the races, this evens out by the next rank and above as story-wise it assumed that from that point on they have trained and honed their magical aptitude to match that of their peers. Players will earn 150-200 EXP per scene with the exception of particularly great scenes that may break this barrier by a margin up to the Moderators’ discretion. Events or quests can fetch upwards of 400 EXP and so players should endeavor to participate in as many as they can as often as possible. A new spell will be earned every 1000 EXP." ,
+                        "Players are expected to mention, in parentheses (for the sake of other players and DMs), how much Mana (Spell slots) has been consumed by them per turn in which magic is cast by their character, e.g. - " ,
+                        {"type":"cite",
+                        "text": "A myriad of embers materialized out of thin air around the Wizard, quickly expanding in shape and size until each grew into a singular, massive house-sized fireball big enough to blot out the sun in the sky. Slowly, guided by his rising hand, the blazing orb flew up and replaced the sun's warm illumination with its blinding luminosity and raging heat. 'You've yee'd your last haw, pardner.' With a languid fall of his hand, the conflagration spread into a thousand fist-sized orbs which fell onto the field in front of him, whizzing down at a blinding speed, each flaming sphere acting with the singular purpose to seek, burn and destroy. [fireball power: 12 spells]"} 
+                    ],
+                    "type":"column"
                 }
             ]
         }
