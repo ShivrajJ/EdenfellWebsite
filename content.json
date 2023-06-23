@@ -1,7 +1,7 @@
 {
     "world" : [
         {
-            "page": "lore",
+            "page": "Lore",
             "url": "/world/lore",
             "content" : [
                 {
@@ -48,7 +48,7 @@
             ]
         },
         {
-            "page" : "races",
+            "page" : "Races",
             "url" : "/world/races",
             "content":[
                 {
@@ -193,20 +193,52 @@
             ]
         },
         {
-            "page":"organizations",
-            "url":"/world/organizations",
+            "page":"Factions",
+            "url":"/world/factions",
             "content": [
                 {
                     "divID":1,
-                    "title":"Organizations",
+                    "title":"Factions: Know Your Enemies",
+                    "type":"column"
+                },
+                {
+                    "divID":2,
+                    "title":"What are Voidbringers?",
                     "paragraphs":[
-                        "organizations"
-                    ]
+                        "Voidbringers (also called Voidborn) are malicious, mindless, feral magical para-demons that wander grotesquely through the most corrupted parts of Edenfell, taking the decay with them wherever they go. Their ranks consist of all the beings from Nimiane’s world and this one whose mana has been sullied and as such they themselves have been warped and transformed into these terrible marauders. Voidbringers walk around looking for good mana to leech on, eternally hungry for more, and as such they attack people in hordes no matter how little mana the individual possesses and therefore pose a great existential threat to all of Edenfell. Like the characters, these malevolent beings exist in Tiers that determine the level of peril and destruction they may bring with them. It is humanity’s goal to vanquish the Voidborn once and for all because regardless of what side each individual is on, this is a common and deadly enemy."
+                    ],
+                    "type":"inline",
+                    "img":"FactionsVoidbringers.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID":3,
+                    "title":"The UnA v/s The Higher Sentient",
+                    "paragraphs":[
+                        "Edenfell was once a land divided into distinct kingdoms segregated on the basis of race, each one of which took pride in their differences and sometimes waged war because of these differences. Magic was shared amongst all the armies of the world, and all these kingdoms were united under one empire under the capital of Ironhold. The Cataclysm brought an end to these kingdoms, and nations could no longer afford to unite under racial identities.",
+                        "Soon after the Cataclysm, Fëanor started gathering mages under the banner of the Higher Sentient— an organization with the sole purpose of gathering and honing mages to fight against the Voidbringers, no matter the cruelty of their methods— and built Durlan, where the mages are treated like nobility, whilst the non-mages are treated like peasants who run the kingdom. Due to the growing rarity of magic, this has proven to be a difficult task, but the Higher Sentient and Durlan have grown to be a sizable kingdom, dominating the southern end of the continent.",
+                        "Meanwhile, on the northern end of the continent, 3 separate settlements grew into separate nations, which are now known as the new bastions of a free world, free from the Higher Sentient’s tyranny and from the Voidbringers’ terror, where any one can claim their rightful place in society, mage or non-mage. These three cities— Caliburn founded by the Elves, Vatha by the Nords, and Edom by the Changelings— are collectively known as the Trident and are still composed predominantly of the races that founded them, but they are all allied against the Higher Sentient, and their armies are combined into a single allied force known as the United Army (UnA, phonetically Yuna).",
+                        "Caliburn is ruled by a multi-racial council of 10 highly esteemed individuals who are renowned as the best in their domain. Vatha is an absolute monarchy, ruled over by a Jarl who proves himself to be the best. In contrast, Edom is ruled democratically by an ambassador who is chosen by vote and is usually considered as the most diplomatic candidate. The Trident’s greatest strength lies in its abundance of Adam’s Steel weapons, as it lets all non-mage soldiers start off with their own Adam’s Steel weapon (sword, bow, spear, etc.) and a shield, which only gets replaced if it’s lost or destroyed.",
+                        "In contrast, the Higher Sentient’s army consists only of mages, divided into units including a Mage Seeker— mages specialized in tracking down potential mages— and a well-rounded team of mages to support the seeker. The Higher Sentient is usually involved in patrolling the kingdom of Durlan to ensure that the settlements at the fringes of the kingdom remain safe, and to find any young mages who can be brought to the capital and trained to join its ranks."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":4,
+                    "title":"Antler",
+                    "paragraphs":[
+                        "Antler is a hunting guild officially recognized in the Trident, with complete authority to protect and preserve Edenfell’s wildlife, declare areas and species appropriate for sport hunting, and combat poaching worldwide. ",
+                        "Antler grew due to the favor it received from the various monarchies because the continent’s nobility, regardless of race, has always enjoyed hunting. With its influence, Antler seeks to provide a full understanding and documentation of all creatures in Edenfell and ensure that all species stay extant. Many of the UnA’s members are part of this guild as well and they seek to slowly but steadily add to an increasingly detailed and comprehensive bestiary.",
+                        "Antler employs ruthless methods in dealing with poachers and their black market profiteers and is either fully backed or allowed to do so by the Trident’s rulers and nobility. You have been warned."
+                    ],
+                    "type":"column",
+                    "img":"FactionsAntler.jpg",
+                    "imgType":"mid"
                 }
             ]
         },
         {
-            "page":  "flora",
+            "page":  "Flora",
             "url":  "/world/flora",
             "content": [
                 {
@@ -1205,7 +1237,7 @@
         },
         {
             "page":"Locations",
-            "url":"world/locations/",
+            "url":"/world/locations/",
             "content":[
                 {
                     "divID":1,
@@ -1790,7 +1822,7 @@
             ]
         },
         {
-            "page":"magic",
+            "page":"Magic",
             "url":"/world/magic",
             "content" : [
                 {
@@ -1874,6 +1906,27 @@
                                         {
                                             "type":"td",
                                             "text":"Mountain, Mikoyan MiG-25, freight train (4000T), Little Boy Uranium 235 warhead"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content":[
+                                        {
+                                            "type":"td",
+                                            "text":"Archwizard"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"15000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"20-24"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"City, Lockheed F-117 Nighthawk, Cargo Ship (1000T), Massive Ordnance Air Blast (MOAB)"
                                         }
                                     ]
                                 },
@@ -1969,13 +2022,148 @@
                         "text": "A myriad of embers materialized out of thin air around the Wizard, quickly expanding in shape and size until each grew into a singular, massive house-sized fireball big enough to blot out the sun in the sky. Slowly, guided by his rising hand, the blazing orb flew up and replaced the sun's warm illumination with its blinding luminosity and raging heat. 'You've yee'd your last haw, pardner.' With a languid fall of his hand, the conflagration spread into a thousand fist-sized orbs which fell onto the field in front of him, whizzing down at a blinding speed, each flaming sphere acting with the singular purpose to seek, burn and destroy. [fireball power: 12 spells]"} 
                     ],
                     "type":"column"
+                },
+                {
+                    "divID":6,
+                    "paragraphs":[
+                        "Every mage has unique quirks and mannerisms when wielding magic that make each individual fun and interesting. It might be a particular set of hand signs, the use of outspoken words when Spell Weaving, or even the redundant use of a wand or staff. These idiosyncrasies often help the mages focus as they Weave powerful magic out of the Loom around them and are therefore referred to as a mage’s Spell Focus (Spell Foci plural). Furthermore, whenever magic is cast by a mage in Edenfell the effect is accompanied by a magic circle that may appear either as a luminescent ring of patterns around their hands or on whatever surface is being affected by or subjected to the magic. Magic circles are unique to each mage and no two patterns + color combinations are ever the same, so players are encouraged to have fun finding interesting and distinct colors and patterns for their characters’ magic circles.",
+                        "Spell Foci and Magic Circles are entirely narrative."
+                    ],
+                    "type":"inline",
+                    "img":"MagicCircle.jpg",
+                    "imgType":"right"
+                },
+                {
+                    "divID":7,
+                    "title":"The Schools of Magic",
+                    "paragraphs":[
+                        "The manifestation of magic is called Weaving. There exists an unseen infinite magical force leaking into all the realms, referred to as the Loom, that is the very fabric of divinity. Magical creatures and individuals are capable of sensing the Loom and (sometimes with brief training) can reach out, grab and shape this fabric of magic, thus Weaving. Mages and wielders of magic are called Magic Sensitives or Weavers. "
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":8,
+                    "title":"Evocation",
+                    "paragraphs":[
+                        "This is the magic of the Elves. Evocation magic allows the Elves to create or manipulate the elements and their various states or forces to wonderful effect. The elements of Evocation are water, earth, fire, lightning, tallow & air.",
+                        "The best Elven mages can freely switch between elements with ease and equal mastery, but most mages specialize in an element most natural to them. Tallow is the term used for all liquids (and frozen states) that are not water. "
+                    ],
+                    "type":"column",
+                    "img":"MagicEvocation.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":9,
+                    "title":"Enchantment",
+                    "paragraphs":[
+                        "This is Fae magic. It grants Faes the power to temporarily wield and manipulate the flora (link) and insects of Edenfell. While now unable to effect permanent changes on most plants, Fae mages are still able to make long-lasting effects that survive the duration of a scene and they may even ‘conjure’ impermanent but powerful plants and bugs from nothing that appear as green constructs and do their bidding. ",
+                        "Faes possess the unique ability to enchant other mages too, supplementing (or siphoning) their mana on contact (skin-to-skin) by 50% of its full capacity."
+                    ],
+                    "type":"inline",
+                    "img":"MagicEnchantment.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID":10,
+                    "title":"Conjuration",
+                    "paragraphs":[
+                        "This magic allows Nords to create hard light constructs whose size, shape, power, effects, and strength depend on the mage’s Tier and mana alone. Conjuration (also called Crafting) is hailed often because of the creative freedom it grants the mages, limiting them to the extent of the imagination and nothing else.",
+                        "Conjuration mages are unable to cast magic in the absence of a proper light source, therefore it is not uncommon to find them carrying candles, torches, or lamps when they must venture into the darkness."
+                    ],
+                    "type":"inline",
+                    "img":"MagicConjuration.jpg",
+                    "imgType":"right"
+                },
+                {
+                    "divID":11,
+                    "title":"Alteration",
+                    "paragraphs":[
+                        "Changelings use alteration to transform into all the known beasts (link) of Edenfell. They are able to combine forms (up to three) and create chimeras, borrowing the desired traits and physiologies of the beasts they choose. At the highest levels (Adeptus+), Changeling mages can become mythical beasts of their own creation and imagination, taking their threat and power to new and exciting dimensions."
+                    ],
+                    "type":"column",
+                    "img":"MagicAlteration.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":12,
+                    "title":"Organics Rule",
+                    "paragraphs":[
+                        "Mana is strongest in the body. The natural flow stops any attempt at controlling or manipulating something that is part of a living being. External magic cannot enter the body either unless willed by both parties. Don’t go trying to blood-bend other players or blow them up from the inside out, we do not enjoy these techniques, and as such our magic system doesn’t allow it. Don’t be a loser."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":13,
+                    "title":"Relics Rule",
+                    "paragraphs":[
+                        "Relics are specially crafted items which have permanent magical effects outside of the normal schools of magic due to runic magic, limited only by the moderators’ discretion. They are made with runic magic which is now almost extinct, which makes them both rare and costly. A relic of a particular rank costs half the EXP to go from the previous rank to that rank, and the spent EXP cannot be taken back."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":14,
+                    "title":"Mages v/s Non-Mages: What's the Difference?",
+                    "paragraphs":[
+                        "Mages are magic-sensitive individuals capable of bending the Loom to their will and teeming with the mana with which to do so. Non-mages do not have enough mana to tap into the supernatural force and therefore do not manifest any abilities beyond Traits inherent in their race. ",
+                        "Magic was once commonplace in Edenfell and it was almost strange to find a person who was not magic-sensitive enough to effect even the smallest of magic if they tried. Since the Cataclysm, however, most magic has been taken from the world and mages make up the smallest demographic in Edenfell. They are considered rare “mutants” capable of extraordinary gifts and can often be visibly told apart from those who have not been affected by this mystical mutation. ",
+                        "Mages experience physical side effects to their attunement with the Loom that make them physiologically different in slight or sometimes drastic ways from the rest of their race. They are often several heads taller (and usually rangy) than others and might develop or be born with strange features like an extra finger, unusual color eyes, peculiar hair or facial features, and in the most extreme cases, an extra organ in a body larger than it should normally be as a result of this. These side effects are mostly narrative, though they may provide meager advantages here and there, it is best to get these approved by moderators either during initial character approval or later if a player wishes for their character to develop abnormalities along the line. ",
+                        "Only non-mages are capable of taming magical beasts (especially dragons) in Edenfell since the Cataclysm, a drastic change from the way the world once was. This is thought to be a result of a now inherent animosity and distrust harbored by Edenfell’s magical beasts towards mages and magic as they are to blame for the apocalypse that befell the world. Non-mages start at the same rank as mages do (Initiate) and may come into ownership of magic beasts appropriate for their level as they rank up, getting a new pet every TWO Tiers. Magic beasts start at their given Tiers and rank up as their owners do, unlocking spell slots just as mages do."
+                    ],
+                    "type":"column",
+                    "img":"MagicMagesVsNonMages.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":15,
+                    "title":"Adam's Steel",
+                    "paragraphs":[
+                        "Adam Forged Steel (also called Adam's Iron or Adam's Steel) is a form of metal that was forged in the days of the first men, long before the Alfen and the Anthros of Edenfell. When fashioned into bladed weapons, the steel can hold an especially keen edge, remaining sharp forever without the need for honing.",
+                        "Aside from its sharpness, Adam's Iron is recognizable by its strength and light weight in comparison to ordinary steel, as well as by a distinctive rippled pattern visible in blades made from it. Adam Forged Steel is one of the few known substances that can completely repel magic and its effects. It is the only form of the Abjuration school magic in Edenfell. "
+                    ],
+                    "type":"column",
+                    "img":"MagicAdamsSteel.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":16,
+                    "paragraphs":[
+                        "Unlike regular steel from which weapons and shields are fashioned, the rare Adam's Steel is capable of blocking all forms of spells and mystic arts because it can match them and grow in Abjuration power that sometimes even exceeds that of the mages it is wielded against. When well-aimed (head, torso, and limbs), Adam's Steel can negate an individual's sorcery by cutting off their essential mana flow and keep it that way for as long as the sword is buried in there. Wounds inflicted by this metal cannot be magically healed."
+                    ],
+                    "type":"inline",
+                    "img":"MagicManaFlow.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID":17,
+                    "paragraphs":[
+                        "No one knows the source or origin of this mysterious and powerful metal, but its usefulness since the dawn of the ages is undeniable.",
+                        "The secret of forging Adam's Iron is unknown, making the creation of new weapons impossible. The material is expensive and difficult to obtain. Skilled smiths can reforge Adam Forged Steel weapons by melting down existing ones, but it's a difficult process. Two smaller Adam's Iron swords can be made out of a larger greatsword, or a large greatsword made by melting down multiple smaller swords, but the amount of Adam Forged Steel in the world is finite and extremely rare. The majority of the surviving Adan's Steel weapons either serve as heirlooms in the various noble houses of Edenfell, can be purchased at outrageous prices from few merchants, or are in the possession of the United Army.",
+                        "Tuning is a phenomenon that occurs when a character has had their Adam’s Steel equipment for long enough that they form a bond or connection with it beyond what is normal. Characters may tune with their weapon three times, once every two Tiers. There are three tunings possible: ",
+                        "Pushing: allows the character to manipulate their weapon telekinetically through their bond within a range suitable for the character’s Tier.",
+                        "Bending: allows the character to freely manipulate and change the shape of their weapon.",
+                        "Cloning: allows the character to create and wield a second version of their weapon that lasts an appropriate amount of turns for their Tier per scene."
+                    ],
+                    "type":"column",
+                    "img":"MagicAdamsSteelWound.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":18,
+                    "paragraphs":[
+                        "When a wielder brandishes their claimed Adam’s Steel sword (specifically), the arm that holds the weapon ripples with magic and takes on a steely appearance similar to their weapon’s blade. This singular limb becomes impervious to the effects of magic at the weapon’s Tier and the effects of Adam’s Steel blades.",
+                        "Wielding Adam's Steel also provides enhanced physical attributes at the level of the weapon’s current Tier, such that soldiers who primarily wield these weapons can perform extraordinary feats and pose a significant threat to their magically gifted and powerful enemies. ",
+                        "Adam’s Steel weapons are imbued with a fragment of the souls of magical beings (mages, beasts, or Voidborn) they slay or participate in the slaying of. Slowly, this builds up until eventually there is an eerie howling when a much-experienced blade is summoned, the souls trapped in the steel announcing its fatality. As a result of this, the highest-ranked wielders of these weapons—those with the greatest kill counts—are called Deathsingers. "
+                    ],
+                    "type":"column",
+                    "img":"MagicAdamsSteelArm.gif",
+                    "imgType":"mid"
                 }
             ]
         }
     ],
     "characters" : [
         {
-            "page":"ocs",
+            "page":"OCs",
             "url":"/characters/ocs",
             "content": [
                 {
@@ -1988,7 +2176,7 @@
             ]
         },
         {
-            "page":"npcs",
+            "page":"NPCs",
             "url":"/characters/npcs",
             "content": [
                 {
@@ -1996,6 +2184,204 @@
                     "title":"NPCs",
                     "paragraphs":[
                         "npcs"
+                    ]
+                }
+            ]
+        },
+        {
+            "page":"Fame",
+            "url":"/characters/fame",
+            "content": [
+                {
+                    "divID":1,
+                    "title":"Fame and Infamy",
+                    "paragraphs":[
+                        "Fame and Infamy are narrative identifiers that will be used to add flavor to the roleplay, just like foci and Magic Circles. A character's Fame or Infamy is an indicator of how well-known they are in the world of the roleplay and determines if other characters would have heard of them and their deeds or legend without necessarily ever having met them.",
+                        "Players will earn Fame and Infamy in a similar way as they do Exp but only by partaking in important events or scenes that are deemed exceedingly relevant by a DM. Basically, if it makes sense in canon that a character will gain renown or notoriety from an action or course of action, the Fame and Infamy system will ensure that they do. ",
+                        "This is a way to encourage you to go ahead and become a legend; we will make sure everyone knows about you.",
+                        "For the good guys:",
+                        {
+                            "type":"table",
+                            "content":[
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"th",
+                                            "text":"Fame"
+                                        },
+                                        {
+                                            "type":"th",
+                                            "text":"Points"
+                                        },
+                                        {
+                                            "type":"th",
+                                            "text":"What It Means"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"td",
+                                            "text":"Messiah"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"3500"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"You are a Savior of this world."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"td",
+                                            "text":"Guardian"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"2000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"The people know you and they love you."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"td",
+                                            "text":"Lightbringer"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"1000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"You are a household name."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"td",
+                                            "text":"Peacekeeper"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"100"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"You're growing in stature."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "For the more sinister fellows:",
+                        {
+                            "type":"table",
+                            "content":[
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"th",
+                                            "text":"Infamy"
+                                        },
+                                        {
+                                            "type":"th",
+                                            "text":"Points"
+                                        },
+                                        {
+                                            "type":"th",
+                                            "text":"What It Means"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"td",
+                                            "text":"Overlord"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"3500"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"Now, you are Satan."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"td",
+                                            "text":"Terror"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"2000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"The people are terrified of you."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"td",
+                                            "text":"Ringleader"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"1000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"Your notoriety precedes you."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"td",
+                                            "text":"Agitator"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"100"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"You're growing in stature."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "Players will earn 100-150 points per relevant event/deed but in the case of exceptionally salient events, they may also earn substantially more"
                     ]
                 }
             ]
